@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lofttravel.github.io/lofttravel_rewies/schemas/reviews.v1.schema.json",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "timezone", "sources", "stats", "reviews"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": "reviews.v1" },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "timezone": { "const": "Europe/Minsk" },
+    "sources": { "type": "object" },
+    "stats": {
+      "type": "object",
+      "required": ["total", "google", "yandex", "with_photos"],
+      "properties": {
+        "total": { "type": "integer", "minimum": 0 },
+        "google": { "type": "integer", "minimum": 0 },
+        "yandex": { "type": "integer", "minimum": 0 },
+        "with_photos": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "source_place_id", "source_review_id", "author", "rating", "text", "published_at_text", "published_at", "published_at_is_approximate", "date_precision", "first_seen_at", "last_seen_at", "source_url", "photos", "content_hash"],
+        "additionalProperties": false,
+        "properties": {
+          "source": { "enum": ["google", "yandex"] },
+          "source_place_id": { "type": "string", "minLength": 1 },
+          "source_review_id": { "type": "string", "minLength": 8 },
+          "author": {
+            "type": "object",
+            "required": ["name", "avatar_url", "profile_url"],
+            "properties": {
+              "name": { "type": "string", "minLength": 1 },
+              "avatar_url": { "type": ["string", "null"] },
+              "profile_url": { "type": ["string", "null"] }
+            }
+          },
+          "rating": { "type": ["number", "null"], "minimum": 1, "maximum": 5 },
+          "text": { "type": "string", "minLength": 1 },
+          "published_at_text": { "type": "string" },
+          "published_at": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "published_at_is_approximate": { "type": "boolean" },
+          "date_precision": { "enum": ["exact", "day", "week", "month", "year", "unknown"] },
+          "first_seen_at": { "type": "string", "format": "date-time" },
+          "last_seen_at": { "type": "string", "format": "date-time" },
+          "source_url": { "type": "string", "pattern": "^https://" },
+          "photos": {
+            "type": "array",
+            "maxItems": 4,
+            "items": {
+              "type": "object",
+              "required": ["id", "thumbnail_url", "popup_url", "width", "height", "mime_type"],
+              "properties": {
+                "id": { "type": "string" },
+                "thumbnail_url": { "type": "string", "pattern": "^https://" },
+                "popup_url": { "type": "string", "pattern": "^https://" },
+                "width": { "type": ["integer", "null"] },
+                "height": { "type": ["integer", "null"] },
+                "mime_type": { "const": "image/webp" }
+              }
+            }
+          },
+          "content_hash": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+        }
+      }
+    }
+  }
+}

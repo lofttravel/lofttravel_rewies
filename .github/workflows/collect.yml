@@ -1,0 +1,69 @@
+name: Collect reviews
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+      timezone: "Europe/Minsk"
+  workflow_dispatch:
+
+concurrency:
+  group: reviews-collector
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm test
+      - run: npm run collect
+        env:
+          PUBLIC_BASE_URL: https://lofttravel.github.io/lofttravel_rewies
+
+      - run: npm run validate
+
+      - name: Save updated feed and optimized media
+        run: |
+          git config user.name "lofttravel-reviews-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public state
+          if ! git diff --cached --quiet; then
+            git commit -m "data: update reviews feed"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Upload diagnostics on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: review-collector-diagnostics
+          path: artifacts/
+          if-no-files-found: ignore
+          retention-days: 7

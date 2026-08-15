@@ -1,0 +1,2932 @@
+{
+  "generated_at": "2026-08-15T16:59:30.205Z",
+  "reviews": [
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_fcbff0115f1997223d0b6a71666f3305182cbf10e369af4e7986d364eed230cd",
+      "author": {
+        "name": "Виктория Брановец",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/qqptx0zx05hgekfuu7jhdj9tdm"
+      },
+      "rating": 5,
+      "text": "Хотим выразить огромную благодарность за отличную работу менеджера Виктории. Спасибо за внимательность, скурпулезность, ответственность, понимание и помощь в подборе тура и дальнейшем сопровождении!!!!",
+      "published_at_text": "7 августа",
+      "published_at": "2026-08-07",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "76e6c8208498d89b4eea5579a8a9600c6acd0af2b02867335ed890ea9539d817"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SVpXSldkbWR6ZEdKcGFFMUJhVUZEV1MxR2FuYxAB",
+      "author": {
+        "name": "Лера Дворак",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/3e3afaefc876c97568313722.webp",
+        "profile_url": "https://www.google.com/maps/contrib/106913448841167206107/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Осталась довольна работой туроператора, все подробно рассказал и объяснил,помог с выбором места для отдыха с семьей Спасибо",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "bd5101d5917c98e3ee2c01df85a80f4b586c7eaff151e45cf1ec674d812bed04"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NFl6TkdTMUJFUjAxYVRITkJXazlPZFc1T1dtYxAB",
+      "author": {
+        "name": "Елена",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/d80e9cdbeae5efbffadc4964.webp",
+        "profile_url": "https://www.google.com/maps/contrib/110203429057187958465/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Турагентств и турагентов много, а таких замечательный профессионалов очень мало! Второй раз с мужем бронируем тур именно здесь. Всегда подробно и грамотно проконсультируют, предложат лучшее и расскажут все как есть. Отдельное спасибо Елене …",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "389755f5634e63b8ee732e3fd436c8a7dacb89bd366383f7681b76fc5c7dca84"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT214R1QxODBRMGd5WDB0MWEwbFJTM1YxUTFaMVEyYxAB",
+      "author": {
+        "name": "Анна С",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/8e10b8171fbea71af86ca21c.webp",
+        "profile_url": "https://www.google.com/maps/contrib/105310313412461409971/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Огромное спасибо Лофт Трэвел за отличный отдых! Всё было оформлено чётко и быстро, менеджер Виктория была на связи на протяжении всей поездки. Наша семья Ваша навеки!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "a5d77d70efef7416530145482e31e52115af34c837a21efd09d01046dffca88f"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sU1kwVkhZbXhVT0V4MWRtMVBkVEJRVW1kU2FsRRAB",
+      "author": {
+        "name": "Ольга Кульчик",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/6ce8f516d69e6d875dcdb706.webp",
+        "profile_url": "https://www.google.com/maps/contrib/117764628071116737282/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Подобрали страну и отель под наши запросы очень быстро, и на следующий день был заключён договор. Ждём с нетерпеи6 наш отдых с Вашей помощью!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "cc2de678a066076754a23c9da42d6d2a1662493f660714d22b120f26592a67a6"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CbVZrd3RiV3h0YUVWNVlWQndRVlpUWVZsb1VVRRAB",
+      "author": {
+        "name": "Ольга Саковец",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/80b4ebeee8549582c62f428c.webp",
+        "profile_url": "https://www.google.com/maps/contrib/112412757960566599557/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Выражаю признательность и огромную благодарность турфирме \"Лофт Трэвел\"! Третий раз я обращаюсь сюда, и ни разу, не пожалела о своем выборе. Прекрасное туристическое агенство, в котором работают на отлично и действительно …",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "52c0457a30380137cc8a88252baa4bcaa90ccfb99cc286506b843c4ef4a04a6b"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oR2VsTm9kbk5EVlZGelJtMU1kVGRKTUU1RU1WRRAB",
+      "author": {
+        "name": "Алексей Санько",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/c392e016c2f82b430c287b61.webp",
+        "profile_url": "https://www.google.com/maps/contrib/113709005626830181288/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Прекрасная компания очень понравилось особенно хотим выразить менеджера Викторию ее профессионализм открытость доброту",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "dbbcd5df8190acb91188f80f3ccd61366b170dab587e69e9462f10adc0f41d28"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Rd2VWSjZiREJOYVhOMWVHcGxaazE0UkRCTFZVRRAB",
+      "author": {
+        "name": "Анастасия Апарович",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/b2d17575cb88b2818a14eff6.webp",
+        "profile_url": "https://www.google.com/maps/contrib/105094725648080146736/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Обращались в агентство за организацией отпуска во Вьетнам. Были учтены все мои требования при подборе отеля, поэтому локация и номер были идеальными! Помощь в регистрации доп габаритного багажа, связь на всех этапах) ну и детский набор развлечений в самолет захватил сердечки всех членов нашей семьи! Это был шикарный отдых и шикарная организация) Благодарю девочек за индивидуальный подход 🙏🏼 и конечно, полетим с вами не раз!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "b6fd73f4b7078350f3fe9ccd0c7e7352d92f78c2d98cd3ad372ae245560c9771"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SaU5VeERWVE4yTUhoMFJHbHlSVzVKVm5waVZHYxAB",
+      "author": {
+        "name": "Мацюк Александр Игоревич",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/8edd45de808981d394ab8f63.webp",
+        "profile_url": "https://www.google.com/maps/contrib/101602410845439966762/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Больше 5 лет пользуюсь услугами этой компании, всегда подбирали очень удачные туры (Танзания, ОАЭ, Мальдивы), при этом ощущается индивидуальный подход и здесь умеют учитывать индивидуальные пожелания, коммуникация на очень хорошем уровне - всю нужную информацию предоставляют, отвечают быстро. Отдельная благодарность Виктории!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "c9653888c769f6d74e6a5d90d187fadc9e6f0bd8d7ba144c4a53697cca9ab622"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxQmRXWkRiMUZ3WTJGWmFGcEdZazVoVFdOMWNrRRAB",
+      "author": {
+        "name": "Alena Lapanik",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/2f3eacef7ebc442e4b05fa37.webp",
+        "profile_url": "https://www.google.com/maps/contrib/113253963000304054666/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Отдыхали в февраль/март 2026 года в ОАЭ. Долго выбирали отель, много было предложений. Остановились на Fairmont Fujairah. Отдых очень понравился. В марте когда возникли трудности с вылетом, менеджер Екатерина всегда была на связи.",
+      "published_at_text": "Изменено месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "766196133db62bf637ac615bb3271cbeb485dd445a336d294bd56f46195a0851"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbmQyd3ljbTFYZUZsZlprMVdVekJFUVZKVmNrRRAB",
+      "author": {
+        "name": "nick koshkin",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/50e0dc83a1ed88a5b8bf9086.webp",
+        "profile_url": "https://www.google.com/maps/contrib/102552900005749315587/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Спасибо большое Ирине за помощь в подборе отеля в Турции Сиде. Ира максимально подробно все описала и помогала на всех этапах перед и во время поездки. Каждый год летаем с компанией Лофт Тревел и всегда остаемся довольны. Спасибо большое за помощь в организации прекрасного отдыха!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "f7c367614cc72e190f39c65b51137d77b56e194b0005a8124323b05e40faee40"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcFMxTlJVbnBvZHpkQ1EyMUtkSFk0WVY5TFQzYxAB",
+      "author": {
+        "name": "Анастасия Герасько",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/a0132531de5200de2f72492b.webp",
+        "profile_url": "https://www.google.com/maps/contrib/102676316005725519442/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Покупали тур в Турцию отель Fame Residence Goynuk, отдыхали с 31.05.2026 по 08.06.2026. Подобрали тур быстро с учётом нашего бюджета. Отель нам понравился, все прошло хорошо. Спасибо менеджеру Екатерине за оперативную работу. Будем обращаться снова!!!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "f75773edce5b35ec50bd4f32115110a1743ee79b65beaed83ad8bf61c3fcbbe5"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcmIyWk5jV2RRT1hnek9FTXpSbXBUTlVSS2JXYxAB",
+      "author": {
+        "name": "Tatyana Dybiago",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/e9a520ca0ac46111691d9c71.webp",
+        "profile_url": "https://www.google.com/maps/contrib/103524140614996324887/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Тур оператор был на высшем уровне. Всё чётко и по делу. Отдых удался на ура. Планируем в скором времени обратиться сново.",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "b09b87cca1369d957eb10e62",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/b09b87cca1369d957eb10e62.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/b09b87cca1369d957eb10e62.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "11960c8e3a9f01452610c428",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/11960c8e3a9f01452610c428.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/11960c8e3a9f01452610c428.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "9d2556355ada95bee35a85c3",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/9d2556355ada95bee35a85c3.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/9d2556355ada95bee35a85c3.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "cc0ebac06e76549506096825",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/cc0ebac06e76549506096825.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/cc0ebac06e76549506096825.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "fb097878f1aa01be5adb9b6fca5b08299fa40cadbfa48516d1f22be325b4b18b"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKemFERklaMHBOYmtwd09FUXRRVEk1VFZOV1pHYxAB",
+      "author": {
+        "name": "Диана Маскаленчик",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/862ae367b0da5f546403c0b8.webp",
+        "profile_url": "https://www.google.com/maps/contrib/104936395844474061038/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Обращались для выбора тура на 12 дней. Остановились на Вьетнаме. Отпуск прошел замечательно. В отеле учли то, что у нас недавно была свадьба и оставили комплимент. Мы даже не хотели уезжать. Всегда менеджер была на связи.",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "0591b5ef64a4c869e1f8f92b",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/0591b5ef64a4c869e1f8f92b.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/0591b5ef64a4c869e1f8f92b.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "326e2f966116a4cf4f37d08c",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/326e2f966116a4cf4f37d08c.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/326e2f966116a4cf4f37d08c.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "10e44bf93d413eda4d371964",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/10e44bf93d413eda4d371964.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/10e44bf93d413eda4d371964.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "85d9ecf21b35d98e76ed8a5e",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/85d9ecf21b35d98e76ed8a5e.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/85d9ecf21b35d98e76ed8a5e.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "bd3a4b2c2764816a08c2838abe34ee1e85a9df77ac82c920797fed78b221f429"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSck1YSkNjMlZYWVhoV1ZXNXJOV0pGU1dkRU5IYxAB",
+      "author": {
+        "name": "Marina Kovalevskaya",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/d6bed308bc495b05ec65973a.webp",
+        "profile_url": "https://www.google.com/maps/contrib/113156980000128506794/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хотели бы сказать огромное спасибо Loft Travel за организацию отдыха, за ваш подход к каждому клиенту, за то что учитываете все пожелания для отдыха , вы большие молодцы так держать 👍👍👍 побольше вам клиентов которые будут к вам обращаться и будут довольны что выбрали именно вас для своего отдыха 👍👍👍 …",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "e5386dc3c9dbe8a77b551ce27488d6df270765e8ddc0b7262549c6e63efd7ac1"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseE1rVkNWMGhIWTFJd01VMUdNMkZHY1ZCMVYxRRAB",
+      "author": {
+        "name": "Светлана",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/b597991c2ceade6a2fc477ad.webp",
+        "profile_url": "https://www.google.com/maps/contrib/107476267727126175413/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Купили путевку в Турцию. Поездка состоится в середине июля. Отличная локация офиса, центр, метро, есть парковка. Менеджер Екатерина внимательная, тщательно подошла к выбору отеля для нашей семьи. Спасибо",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "bc7b232a31c93ae5f569f62fce47c8e87e9d02962b9e361e4e1a90544c19366d"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMGVUQmplVzk1VDNCdk1raDNTRkJSVFVZMllrRRAB",
+      "author": {
+        "name": "Александр Кунец",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/a0132531de5200de2f72492b.webp",
+        "profile_url": "https://www.google.com/maps/contrib/113066038480412078477/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Спасибо большое Loft Travel, а именно Виктории за профессионализм и качественный подбор тура!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "b9f3d8b67c9dccf26ed4bbde488d187107bfd42adfa3608e30ca1e4f29f753e6"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdmNsTktkbkpWZEhwb1QwWnBWM2xWYVhCc2IxRRAB",
+      "author": {
+        "name": "Елена Смотрова",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/8a267b60dbb07bf547e21b2e.webp",
+        "profile_url": "https://www.google.com/maps/contrib/115253640734434319710/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "С далекого 2016 года и по сегодняшний день наш отпуск доверяем только Ирине Слабухе. Автобусные туры, туры с вылетом из Минска и из Москвы, пробовали по-всякому) Всегда хорошие варианты отелей на выбор и мы всегда укладываемся в наш запланированный бюджет. По оформлению документов никаких вопросов не было, всегда во время и без опасений, что что-то будет не так. Огромная благодарность за подсказки и различные лайфхаки « где обменять деньги, где нужно точно прогуляться, где можно хорошо закупиться» 🙂 и за занемательные сюрпризы детям во время полёта - отдельное 🫶",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "415409b1ba3490d07ea835cf",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/415409b1ba3490d07ea835cf.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/415409b1ba3490d07ea835cf.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "38a8dae65aead32df0568d1a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/38a8dae65aead32df0568d1a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/38a8dae65aead32df0568d1a.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "f69fa457928d223de085ad42",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/f69fa457928d223de085ad42.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/f69fa457928d223de085ad42.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "aea4f020f1efbe10642ebc0b8fa09b6e1f3e007e2d5193688f46e64a4ceff18b"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Wk9FWkxSVUpWWmpGeGFuUkVka2hOU2tSVWNFRRAB",
+      "author": {
+        "name": "lizzi klimenok",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/426657cbfeba5456f72e26e3.webp",
+        "profile_url": "https://www.google.com/maps/contrib/114412446446496604099/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Бронировала Таиланд через менеджера Викторию. Хочу отметить вовлеченность специалиста и желание подобрать нам выгодный и хороший тур. В итоге по рекомендации Виктории выбрали прекрасный отель, отдыхом остались очень довольны. Рекомендую данную турфирму!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "925f11a2dd5ffc728aad7635",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/925f11a2dd5ffc728aad7635.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/925f11a2dd5ffc728aad7635.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "2b7ee8588ee746f83e89a571",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/2b7ee8588ee746f83e89a571.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/2b7ee8588ee746f83e89a571.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "5af0a8b3c21790c7c0a00e34",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/5af0a8b3c21790c7c0a00e34.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/5af0a8b3c21790c7c0a00e34.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "11302e599aae4ab8d462eb81ed1cdbf0fa6d094e7247c614e448a19662d04e64"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4blkwNWliVjgxWVZGU1NVcGpNbmhNTlVGNVowRRAB",
+      "author": {
+        "name": "Наталья Колесник",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/22012dcd73059ad10ed0d785.webp",
+        "profile_url": "https://www.google.com/maps/contrib/101525949657676839594/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "В прошлом году впервые обратилась в это агентство. Всё понравилось: отношение, взаимодействие, сам отдых, учли все пожелания. В этом году я снова с Лофт Трэвел!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "cbddc91f3d69f0bea308bb6db75963f3bf0cd1622537393560676ee583180463"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toamFVNXlVRWhCVkc5WVdHUjBTbVYyYURacU9HYxAB",
+      "author": {
+        "name": "Бондарович Наталья",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/0f589ff8af8b93d0f61b532e.webp",
+        "profile_url": "https://www.google.com/maps/contrib/105470181254581808642/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Каждый раз, начиная планирование нового путешествия, я знаю, что могу положиться на команду Loft_travel. Вы всегда находите идеальные варианты, учитывая все мои пожелания. …",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "55efb7bcba52e32c372d99752c7842430f44650689807312beca10e181069e64"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsS2NYaFhRaTFPWWtWVmFEUjRVR2xCU1dsTVoxRRAB",
+      "author": {
+        "name": "Vlas Maskalenchik",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/34c310bdeadc5d978b64d34d.webp",
+        "profile_url": "https://www.google.com/maps/contrib/108453995197548834373/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Выбрали для себя отдых во Вьетнаме, с помощью менеджера Елены. Отпуск прошел отлично! Остались довольны всем: коммуникацией, учетом пожеланий и ответом на 1001 наш вопрос :)",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "ef5dd7b5ca94bcaef08d2626",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/ef5dd7b5ca94bcaef08d2626.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/ef5dd7b5ca94bcaef08d2626.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "ddc3c56bcc6d15f83c0ef7cf",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/ddc3c56bcc6d15f83c0ef7cf.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/ddc3c56bcc6d15f83c0ef7cf.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "b847a400cf8f67d4cdcc30c6",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/b847a400cf8f67d4cdcc30c6.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/b847a400cf8f67d4cdcc30c6.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "83a5d266432c3feb8bc0ad9e7564e9385693c0521e74e087bafdf53329bd9e4d"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSlQzTTJPSGcxTkhSSFZreDVlSFJ5VEc5RFQzYxAB",
+      "author": {
+        "name": "Anna Dementieva",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/0b0402e86d60a187d8f9de61.webp",
+        "profile_url": "https://www.google.com/maps/contrib/112178845920036729126/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Любимый Loft Travel, с которым я попадаю в те уголки планеты, в которые давно собиралась, но все откладывалось! Так с Викторией мы оперативно забронировали тур на Фукуок, за 2 дня до вылета! Был предложен отель с учетом сезона, и он оказался лучше, чем я даже предполагала. Чистейшее теплое море, кафе на территории отеля и за его пределами, 10минутная доступность к городку, в котором ощущение сказки не покидает! Они даже построили мини Колизей на острове!!! Это невероятное место обязательно нужно увидеть каждому своими глазами с помощью замечательных фей Loft Travel.))) Спасибо за Вашу отзывчивость и профессионализм!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "90be1acf56c70da6f56c745b",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/90be1acf56c70da6f56c745b.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/90be1acf56c70da6f56c745b.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "5d67665eb293582edd1a0c85",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/5d67665eb293582edd1a0c85.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/5d67665eb293582edd1a0c85.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "3ef28e54ee880d3bf40439d1",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/3ef28e54ee880d3bf40439d1.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/3ef28e54ee880d3bf40439d1.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "49de21349416a056167dd297",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/49de21349416a056167dd297.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/49de21349416a056167dd297.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "5164ec62bcc880c6dda6813e3910fa995fe55bfd3e0aad79ec56c05ee35eb17c"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWZlZqSnhVRzVmTFdwNlUxQjJZbEF0VTBGeWNVRRAB",
+      "author": {
+        "name": "Ольга Федосеева",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/86039fd8a1e1412fb91bf17c.webp",
+        "profile_url": "https://www.google.com/maps/contrib/112894554802229023326/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Я очень рада, что по рекомендации блогера, я узнала о Лофт Трэвел. Работаем с Еленой уже не один раз. Очень быстрая подборка отелей, личные рекомендации, содействие в улучшении условий, всегда на связи. 101% доверия к агентству. Возможно …",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "f0f127253efce50ee5c52e7a8fe2cca0a0f2ba722f3ec64050af43b6353f1fdb"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSFNHcDNSMFJFTW1vM2VHMXVUVWRwYVUxak5rRRAB",
+      "author": {
+        "name": "Алеся Жданович",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/77ea35c23cee29456bd5a8b6.webp",
+        "profile_url": "https://www.google.com/maps/contrib/106018801761685348118/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Наше любимое турагентство вот уже на протяжении почти 10 лет. Душевный подход. Сердечное сопровождение. Искренняя поддержка. Спасибо, что помогаете нашей нервной системе восстановиться на море даже лучше, чем магний ) и делаете наш отпуск самым уютным и комфортным! Ваши Жданович Елена и Алеся",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "3121e2bfa6130400ceaa774cf244d398e5d9380143a0bcddddcdd56deb39df61"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMk5uVnVOWE5OZEdwTWVsSmlZblYyV25wWGJtYxAB",
+      "author": {
+        "name": "Анастасия Астрякова",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/325b7aff04977bdd835cd235.webp",
+        "profile_url": "https://www.google.com/maps/contrib/105022057728538209356/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Мне помогли подобрать тур. Каждое общение ближиало меня к отпуску) я очень рада, что выбрала именно вас)",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "ac1e24618155042f29a331e53b06f90c637cce385b77b0b50d816b3c94361b58"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSlMzUkxXbFV4VGpkVlgwMW1kMnRKTWpaT1dYYxAB",
+      "author": {
+        "name": "Vitali Krasouski",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/c23f833e6f281a97e47182d5.webp",
+        "profile_url": "https://www.google.com/maps/contrib/116446213451339053643/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочу выразить огромную благодарность Лофт Трэвел! Наткнулся на их профиль в Instagram — и это была любовь с первого взгляда. Аккаунт ведут просто потрясающе: эстетичные обзоры, честные подборки, никакой банальщины и куча полезных фишек. Залипать на их сторис можно бесконечно, они и вдохновили наконец-то сорваться в отпуск!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "89031d778cc43b384c4039ea6c19b9b33ccd2de942d4ee421e50efc9c131c587"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkamJIQTFTMU5vWWkxV1QySktUa0pIU25VdFRGRRAB",
+      "author": {
+        "name": "Glashka 11",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/f4da8940e36c2d18e0631041.webp",
+        "profile_url": "https://www.google.com/maps/contrib/103362927655044305658/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Прошлым летом обращались за помощью в подборе тура в Египет. Получили грамотную консультацию, подробный рассказ о новой для нас стране. Ирина - специалист в своем деле, быстро отвечала на вопросы, записывала множество голосовых об отелях, подбирала нам варианты, основываясь на наших предпочтениях и бюджете . В Египте тоже не остались без внимания турагента) Интересовалась как устроились, отвечала на вопросы, которые возникали. Поэтому этим летом снова обратились к Ирине и забронировали новый тур, с нетерпением ждем отпуск)))",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "02dbea4ca51e374717629cbd1d58f8936adb6a0868f031f873d0d84060825d2e"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xobE5tSkVSV1ZzWDBWVk0yWmZRVlJXTVZNek1YYxAB",
+      "author": {
+        "name": "Екатерина Скорбеж",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/9d935605b98ab6a486959a2f.webp",
+        "profile_url": "https://www.google.com/maps/contrib/110091305538177672068/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочу поблагодарить Лофт Трэвел за организацию нашего семейного отдыха! С нами работала менеджер Екатерина. Мы отдыхали в апреле в отеле Desert Rose 5* в Хургаде: эстетичный, с хорошим пляжем и питанием. Хочу отметить, что Екатерина всегда была на связи, интересовалась, как проходит отдых, консультировала по возникающим вопросам. Порадовали приятные подарочки для детей: папки с разными книжечками и прочими мелочами по возрасту. В самолёте были заняты) Наша семья осталась довольна отдыхом и уровнем клиентоориентированности компании Лофт Трэвел! Спасибо большое! Обязательно вернёмся к вам ещё!",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "c9cb30bb22e94e942cfa499fb78a091bbe7216b247d55c02f6b221c0007ac4e4"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMWVUWlNWbEpsYzBSVlZubEllSEpqZDFZNVgzYxAB",
+      "author": {
+        "name": "Богдан Чижонок",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/591b5e44b6c9e5bd290fde67.webp",
+        "profile_url": "https://www.google.com/maps/contrib/103505888727578577077/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочу поблагодарить туристическую компанию Лофт Трэвел за отлично подобранный тур на Кубу! Всё прошло просто замечательно — от момента подбора тура до самого отдыха. Отдельное огромное спасибо Ирине за профессионализм, внимание к деталям и …",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "6951ac1f22fd13a0b5c88c57",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/6951ac1f22fd13a0b5c88c57.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/6951ac1f22fd13a0b5c88c57.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "6fbe23d8ba28d05e5381d136",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/6fbe23d8ba28d05e5381d136.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/6fbe23d8ba28d05e5381d136.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "1750b35e72959b6ae22227f6",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/1750b35e72959b6ae22227f6.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/1750b35e72959b6ae22227f6.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "92990cc50753c28b1cb43b5fc72f12ad1194da114009d03ac7937fed9509c05c"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSlVGRk1RMWRoVDNGWGRVeHNkR2hSWjBkdVgzYxAB",
+      "author": {
+        "name": "Антон Николаевич",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/a0132531de5200de2f72492b.webp",
+        "profile_url": "https://www.google.com/maps/contrib/105488768694320042496/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Отдыхал с Лофт Трэвел в мае 2025 года, отдых прошел великолепно. Идеальное сопровождение на всех этапах, начиная от бронирования тура, заканчивая прилетом обратно, за что особая благодарность Елене.",
+      "published_at_text": "месяц назад",
+      "published_at": "2026-07-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "86a775ede8e2f5f44b6b16a2da3dc2db90bbd66038d23952acf6da41dae32e66"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_2bbbd6badee4f38e99cd7769687ea6e4d7cf08d4fdfd9cbf4723503d251cd7d9",
+      "author": {
+        "name": "Вероника Щуцкая",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/yfxutczre9dbxyrxnde9pawd5c"
+      },
+      "rating": 5,
+      "text": "Огромное спасибо команде турагентства LoftTravel за очередной наш незабываемый отдых. Мы с вами уже наверное третий год работаем и ни разу я не пожалела,что когда-то обратилась именно к Вам ❤️! Это настоящие профессионалы своего дела: подскажут, расскажут, опишут…",
+      "published_at_text": "6 июля",
+      "published_at": "2026-07-06",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "957ff8cc6b380212f47ef2b0",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/957ff8cc6b380212f47ef2b0.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/957ff8cc6b380212f47ef2b0.webp",
+          "width": 1840,
+          "height": 3264,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "94967258457df0f74e203fac",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/94967258457df0f74e203fac.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/94967258457df0f74e203fac.webp",
+          "width": 4080,
+          "height": 2288,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "2e6d27a211b4213400b8a961",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/2e6d27a211b4213400b8a961.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/2e6d27a211b4213400b8a961.webp",
+          "width": 2288,
+          "height": 4080,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "2521139da9fcf3aaa20d6c57",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/2521139da9fcf3aaa20d6c57.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/2521139da9fcf3aaa20d6c57.webp",
+          "width": 1920,
+          "height": 1080,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "c3af55d97beac5e693195e6646780ad11de3f04ce90b0cab1a81fb4f5a4763cd"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_e02cc557eb00b7b42f4c3290fd7a866272c0aceb19c9028988f02aae51f53981",
+      "author": {
+        "name": "Екатерина Кузьменок",
+        "avatar_url": null,
+        "profile_url": null
+      },
+      "rating": 5,
+      "text": "Обратилась за подбором тура к менеджеру Елене. И с этого момента случился полный мэтч с менеджером. У меня не получалось определиться с направлением отдыха, но Елена настолько профессионально, качественно, тактично, с разъяснением многих вопросов от меня,…",
+      "published_at_text": "6 июля",
+      "published_at": "2026-07-06",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "3817193bb8dbc2cc83898ce554435f11577f9e50b97cb9e2c50a047b8d9678c2"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_0f263f73d2c9f166947b6ef49ef53f01bbba06198975a44e749aca481adff105",
+      "author": {
+        "name": "Anastasya Pogrebnyak",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/14ary70jau115c2dwkezmzm450"
+      },
+      "rating": 5,
+      "text": "Очередной раз спасибо вам за организацию отдыха. Без нюансов, без проблем и с самым классным настроением мы отдыхали. Китай, март 2026. Отель 4seasons и SwissOtel с организацией индивидуального трансфера. Ирина чувствует клиента, задает правильные вопросы и подбирает тот отдых, о котором ты мечтаешь 😍 Отдыхом довольны на 1000 % Спасибо вам огромное ♥️",
+      "published_at_text": "5 июля",
+      "published_at": "2026-07-05",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "3dbec432d734b5af07574825",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/3dbec432d734b5af07574825.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/3dbec432d734b5af07574825.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "68266446c9ea9f90be4857db",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/68266446c9ea9f90be4857db.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/68266446c9ea9f90be4857db.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "ce950ff15dd30443623b7422",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/ce950ff15dd30443623b7422.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/ce950ff15dd30443623b7422.webp",
+          "width": 2268,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "5ed549c67b40e45974c86711",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/5ed549c67b40e45974c86711.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/5ed549c67b40e45974c86711.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "fc91e6283eefcad4f31a876f742e9d2305177f96e7980af6a408c85ccddb1f22"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_4e1381a0cda985b40aac2b99521b0fc67239bebac56c329ea6446f86ec166766",
+      "author": {
+        "name": "Света",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/nnj27anjw76j5e2v6yk7g3rfqm"
+      },
+      "rating": 5,
+      "text": "Отличное агентство, летали с ними в ОАЭ. Опыт наипрекраснейший - все пожелания были учтены, агент отвечала на все вопросы, была с если на связи на всех этапах. Другие путешествия- только с ними ❤️",
+      "published_at_text": "5 июля",
+      "published_at": "2026-07-05",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "fc1ca1d55bfd602bf8dd71fd94a7453b5f395507f0f1547a158d02af6e88e135"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_738815c14371b85ab6f0b79bcd99b772da2705ac4bfef077bcf57da63af54048",
+      "author": {
+        "name": "Наталья Д",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/kz1e9pfgpj2u6aqxt503b35xa8"
+      },
+      "rating": 5,
+      "text": "Ездим с Лофт трэвел уже не первый раз. Все четко, туры подбирают под запрос туристов с учётом всех хотелок, отели проверенные, менеджеры знающие свою работу. А Инстаграм как ведут)) Очень полезный контент там. В общем мои искренние рекомендации Лофт трэвел",
+      "published_at_text": "6 июля",
+      "published_at": "2026-07-05",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "b4bee760db1c4689f61c0e1cf4946a5d0c17068e742b729a9ecfa8c132459806"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_33f299ab0a32889ea3235227f8ab34c48a4481444865573fe1301cc5920bb91c",
+      "author": {
+        "name": "Анастасия Ковалёва",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/xq78qfbrqkg6dam7q1nrv4zr64"
+      },
+      "rating": 5,
+      "text": "Выражаю слова благодарности агентству Loft Trevel. Очень приятная и доброжелательная атмосфера. Ирина помогла подобрать подходящий вариант тура и обратить внимание на все нюансы при выборе. В итоге мы получили то путешествие, о котором казалось даже не мечтали 🏝️☺️🔥",
+      "published_at_text": "3 июля",
+      "published_at": "2026-07-03",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "5f07158d80e2f7f6a7addd1ff7a5c3565c9d6b4107b5215da136d4e26a9e454c"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_28f42cd1f6c7fa6c11563e5079622b33cc34c36b8b879a4e2ac2768073f24c1a",
+      "author": {
+        "name": "Дмитрий Ткаченя",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/vfhmguwcpcdn2qpucm24n4qn1c"
+      },
+      "rating": 5,
+      "text": "Пользуюсь сервисом уже раза 4. Всегда без проблем! Турагент на связи. Всегда интересуются, как и что у нас. Однозначно рекомендую!",
+      "published_at_text": "2 июля",
+      "published_at": "2026-07-02",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "47efb3cbe04b0750d55054c866017772d75d314346a5c5a51d69faa746690445"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_dbda2a7dbb9f2b63d73af3e98756ba7becdecdad84aa19d17363eee40e3d04b0",
+      "author": {
+        "name": "Татьяна Р.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/ba47405zgt4qeeph2fa43nky9c"
+      },
+      "rating": 5,
+      "text": "Искренне благодарна Лофт трэвел за наши путешествия, в особенности Виктории. Дважды летали на прекрасный отдых, учитывались все пожелания, всегда получала ответы на все вопросы. Огромное спасибо! процветания Лофт-трэвел и хороших клиентов!",
+      "published_at_text": "2 июля",
+      "published_at": "2026-07-02",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "df7bfe414183d885721aeec4",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/df7bfe414183d885721aeec4.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/df7bfe414183d885721aeec4.webp",
+          "width": 3072,
+          "height": 4096,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "8944360ed4cafe7eb2b776b3",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/8944360ed4cafe7eb2b776b3.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/8944360ed4cafe7eb2b776b3.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "5dfd3daffb30083ae3c82235ae2a264b6b68ad6872935f90fd0d5cc056f03278"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_97cc7d173be967c2dc14e1129504851bff843688c1ff1870919aff66d212327e",
+      "author": {
+        "name": "KANSTANTSIN S.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/ea2kganr18t3xd6qf1z47bmzw0"
+      },
+      "rating": 5,
+      "text": "Остались очень довольны работой турагентства. Отдельно хочется поблагодарить менеджера Викторию за внимательное отношение, доброжелательность и профессионализм. Она помогла подобрать подходящий вариант, подробно ответила на все вопросы и всегда была…",
+      "published_at_text": "30 июня",
+      "published_at": "2026-06-30",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "4c2265d76c3e36d6e6b1ed3cb0f7f9cc35ccbe05b25015d8f760889974366dc8"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_d39afb515374dbe78531367f95fdf08f2dc67d5b26a75af4748374c03280198d",
+      "author": {
+        "name": "Елена Белякович",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/kqu6x3wtdcz9nbpp821w09cw64"
+      },
+      "rating": 5,
+      "text": "Хочу выразить благодарность Loft Travel и отдельно менеджеру Елене , которая максимально быстро подобрала тур под наши запросы и всегда была на связи. Отдыхали в Турции отель Lonicera Resort & Spa . Отличный вариант для семейного отдыха. Рекомендую Loft Travel! Смело обращайтесь!",
+      "published_at_text": "30 июня",
+      "published_at": "2026-06-30",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "63373f506d592e35a65bd34c",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/63373f506d592e35a65bd34c.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/63373f506d592e35a65bd34c.webp",
+          "width": 4284,
+          "height": 5712,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "1d00f67ee1d323bbcba17f4a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/1d00f67ee1d323bbcba17f4a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/1d00f67ee1d323bbcba17f4a.webp",
+          "width": 1200,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "86dceee2c3562783aaf6bc81",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/86dceee2c3562783aaf6bc81.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/86dceee2c3562783aaf6bc81.webp",
+          "width": 4284,
+          "height": 5712,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "f62617d68910415209d214c0f5f288763da21699e50e20caad9fd8aca518ffe2"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_8073c1dfb3bc567d287d79a600d0dddf7bdef5d15d453f5a78a8b5c70d4ca180",
+      "author": {
+        "name": "Дарья А.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/2dxncc5zh511x8c04qxxvfnpdw"
+      },
+      "rating": 5,
+      "text": "Благодарю менеджера Елену за подбор тура во Вьетнам. Ответила на все волнующие вопросы и помогла выбрать отличный вариант в пределах бюджета. После поездки дополню отзыв и поделюсь итоговыми впечатлениями.",
+      "published_at_text": "29 июня",
+      "published_at": "2026-06-28",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "88f559af8ba41bfb85204ad641ade46ff2ff45614fc7bd379abeaa73375e594c"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_9122541612a5477521172acfb46bcf86d4c9a9575f6e7bbe29b5314eb0d07f86",
+      "author": {
+        "name": "Влада Сальникова",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/mrw700hx0qftbqe5xhdzf6hw4m"
+      },
+      "rating": 5,
+      "text": "Опыт взаимодействия с турагентствами у меня небольшой, но Лофт Трэвел однозначно сделали все, чтобы быть первыми в моем личном рейтинге! Подробно рассказывают про каждое направление и дают на него подборку туров под запрашиваемую стоимость, знают про…",
+      "published_at_text": "28 июня",
+      "published_at": "2026-06-28",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "ec5bc8ff47d4cd1948ebb4871cfed0aab14b0b85723aedb065adaff80a4629fc"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_a25264c6f0eaf6a84474bdc981769a7a501b1be0a2a57b8c03b33ebbee679d74",
+      "author": {
+        "name": "Yuliya Karpovich",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/f1rp003pern76316kqx4968gam"
+      },
+      "rating": 5,
+      "text": "Доверились Ирине организовать нам тур во Вьетнам (Нячанг). Всё четко, были рекомендованы лучшие из отелей под наши запросы. Всегда на связи, готова ответить на любой (даже возможно глупенький) вопрос 🌸 Чувствуется вовлеченность и желание организовать отдых максимально комфортно и незабываемо. Однозначно рекомендуем!",
+      "published_at_text": "25 июня",
+      "published_at": "2026-06-25",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "74becae436a6d5a5dd099f82",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/74becae436a6d5a5dd099f82.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/74becae436a6d5a5dd099f82.webp",
+          "width": 2628,
+          "height": 4672,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "74becae436a6d5a5dd099f82",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/74becae436a6d5a5dd099f82.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/74becae436a6d5a5dd099f82.webp",
+          "width": 2628,
+          "height": 4672,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "f73668e9fcf9ea1eea349c2f",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/f73668e9fcf9ea1eea349c2f.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/f73668e9fcf9ea1eea349c2f.webp",
+          "width": 2268,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "18cf5ebc28947a68d0196287",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/18cf5ebc28947a68d0196287.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/18cf5ebc28947a68d0196287.webp",
+          "width": 2602,
+          "height": 3469,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "7e815fce56de09886e8b6426582128881ae20b3c9ecdf124b2d89acd16ff32fd"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_4a71575e7cbee8290fc06f4ae3c16f8719d911a74c9c88411199aa4981ae665a",
+      "author": {
+        "name": "zhyzhella23",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/74eckh56vv0rzt20czvcxjd3n0"
+      },
+      "rating": 5,
+      "text": "Здравствуйте!!! Второй раз уже летаем с этим турагенством и оба раза отдых на высоте. Подбирают тур чётко по желанию. Отвечают на все вопросы в любое время. Находятся всегда на связи и готовы помочь в любой ситуации. Лофт тревел - вы лучшие!!! Особая благодарность Ирине…",
+      "published_at_text": "22 июня",
+      "published_at": "2026-06-22",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "af1e9b40dc50b762a2cf0c8d95c6d4aabe8408da1b39af3f61547aec4419a57e"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_88ddfe3bb8d6e47823d38e452eee5d0faddf264d1b01441c3b32ef2c34707b85",
+      "author": {
+        "name": "Катерина Егорова",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/j24qxmqxjdpxjhd13xw4hm90mc"
+      },
+      "rating": 5,
+      "text": "Летала на Шри-Ланку через Лофт Трэвел. Помогли с выбором размещения с учетом запроса, а это очень важно. В итоге океан через дорогу, фруктовая лавка за углом и, конечно, ланкийский красный ром🤩 Особенно порадовало сопровождение с момента запроса и до…",
+      "published_at_text": "22 июня",
+      "published_at": "2026-06-22",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "48da56eadba8c40ee22f9dab",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/48da56eadba8c40ee22f9dab.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/48da56eadba8c40ee22f9dab.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "9176c3582545f6a10a1e563c",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/9176c3582545f6a10a1e563c.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/9176c3582545f6a10a1e563c.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "c025d9a9cedf7fcdea11ddaa",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/c025d9a9cedf7fcdea11ddaa.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/c025d9a9cedf7fcdea11ddaa.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "ef0c0bd561bf331773681380278b5f77dd398a5e32993d334bc5539eef5675fd"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_6df4cc1c0d9200bd122f013f9b47151a86e2073cbfe7df449931b3d18e84e7cd",
+      "author": {
+        "name": "Анастасия Д.",
+        "avatar_url": null,
+        "profile_url": null
+      },
+      "rating": 5,
+      "text": "Хотим выразить благодарность агентству Лофт-Тревел, в особенности менеджеру Виктории Климович за скурпулезную, внимательную, детальную и очень индивидуальную и максимально деликатную работу по подбору тура! Услугами агентства пользуемся уже второй год и всегда можем быть спокойны за максимальный комфорт во время отдыха. Виктория ВСЕГДА на связи,в любой ситуации,все вопросы решает очень быстро и в интересах клиента.",
+      "published_at_text": "21 июня",
+      "published_at": "2026-06-21",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "f578977290264fb96072245a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/f578977290264fb96072245a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/f578977290264fb96072245a.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "89bbaae4fff51d3076c208c8",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/89bbaae4fff51d3076c208c8.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/89bbaae4fff51d3076c208c8.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "ca98e2f47eb60ffd035aea3a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/ca98e2f47eb60ffd035aea3a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/ca98e2f47eb60ffd035aea3a.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "508f117ea0efa65f6ea9fd24baaf58e82d9523000fe82173ecfa75ddc0ff1140"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_c043e35d8f5500a9001518980eb81d53d1f3389be578a028db8768b6b01e2282",
+      "author": {
+        "name": "Татьяна Чайко",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/z5erq3yc0xjkfjx5v77gf2p6hg"
+      },
+      "rating": 5,
+      "text": "Если брать тур, то только в Лофт Трэвел! Все всегда будет так, как вы хотите, учтут ваши пожелания, подскажут по всем нюансам и всегда можно быть спокойным за свой отдых! Отдельное спасибо менеджеру Виктории, всегда ищет только лучшие варианты!",
+      "published_at_text": "19 июня",
+      "published_at": "2026-06-19",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "f8cae69166566fbd88fc1664",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/f8cae69166566fbd88fc1664.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/f8cae69166566fbd88fc1664.webp",
+          "width": 4284,
+          "height": 5712,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "956ac2727589698b0a8b2d39",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/956ac2727589698b0a8b2d39.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/956ac2727589698b0a8b2d39.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "5f8956d1480f7089be0832ab35fff5424d0ff74523ee3308017cc3113c0ace44"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_00c0e990e4e5fe447baa06c9aaf059f1c4645fb4b14c813ee64fc22f7e3d4726",
+      "author": {
+        "name": "Марина С.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/3bu8y3jyy8bzf0aejj7kxa87b0"
+      },
+      "rating": 5,
+      "text": "Отличный сервис и понимающие сотрудники ! В 23 году ездили с мужем в свадебное путешествие в Египет. Оформление и передача документов точно в срок, сам отдых отличный! Учли все наши пожелания! Спасибо!",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "80a7249033cb5bef8073a2ab719e6f354c06ec404233a1f30c3c016e55529197"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_03bf6faa9e5f67474dec230c435368206bf121b4c013a5265a0da5b7b446db0c",
+      "author": {
+        "name": "Екатерина К.",
+        "avatar_url": null,
+        "profile_url": null
+      },
+      "rating": 5,
+      "text": "Не первый год путешествуем с Лофт Трэвел. И каждый раз организация отдыха просто выше всех похвал. Порой кажется, что удовлетворить все наши пожелания невозможно, но Ирина и Елена справляются с этим на ура. Девочки всегда подбирают именно то, что нужно для идеального отпуска. С ними чувствуешь себя в полной безопасности, ведь они на связи в любое время суток.",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "85d888a154e4f1d1f00391a4ea6ea8cd2a80bc4599a955370a1e54b7f60f5e82"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_0720fa372b5fe432066ae6d80f3a58de1fa186a0116da183987296f5058955df",
+      "author": {
+        "name": "Карина Кондратьева",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/ercqdz8j46hjpdrv3tm5dqba00"
+      },
+      "rating": 5,
+      "text": "Радует, что есть места, где к тебе прислушиваются, в loft travel волшебница моих путешествий Елена каждый раз прислушивалась к моим пожеланиям касательно отдыха и каждый раз мои ожидания совпадали с реальностью☀️ спасибо огромное",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "8ab181025608871e62269049",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/8ab181025608871e62269049.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/8ab181025608871e62269049.webp",
+          "width": 2160,
+          "height": 3840,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "f3f54cd30f1aa804089a8e64",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/f3f54cd30f1aa804089a8e64.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/f3f54cd30f1aa804089a8e64.webp",
+          "width": 4496,
+          "height": 3000,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "b7e9662fc5f139ed89d2e8f9",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/b7e9662fc5f139ed89d2e8f9.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/b7e9662fc5f139ed89d2e8f9.webp",
+          "width": 3000,
+          "height": 4496,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "7e79c9a805940aac6002179f144b676af77dd974daa5e33182092699d2738349"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_1f1f3fb55beccd88277ea37c68f327a8198c5adaf300adf5899a480277522b1b",
+      "author": {
+        "name": "Виктория Демидова",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/a9a6rdr9wk8pbx3j3ar7gbjgbw"
+      },
+      "rating": 5,
+      "text": "Очень рада что попала именно в это агентство.Посещала еще несколько мест,но это в самое сердечко.Мой турагент-это Елена.Профессионал своего дела.Вся информация доносится четко,понятно.Досконально объясняет нюансы поездки,всегда на связи,укомплектовывает путешествие так,что остается только собрать чемодан.Учитывает все пожелания и подбирает тур исходя из вашего бюджета. Весь коллектив приветливый,дружелюбный,помогают советами если это необходимо. Довольна что ездила отдыхать именно через Лофт Тревел.Обязательно обращусь еще,потому что они классные!",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "7267813b69ae23ec2618f6d291ea60d3e75a0e745b691978b1e8d40fab0c7aa0"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_5c388129c90d715a7c8aa06869258b7b21382be15fcd4dbcec2779b0a8c71520",
+      "author": {
+        "name": "Дарья Сказова",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/9u8g0y9x972n8qpbpz5bje8dpw"
+      },
+      "rating": 5,
+      "text": "Очень интересный и красивый аккаунт в Инстаграме. Цены на туры в среднем сегменте ,неплохие варианты отелей, много вариантов отдыха. С удовольствием спланируем путешествие на следующий год в вашей компании. P.S аккаунт в Инстаграме: @loft_travel",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "19acc9eae76b1cddcbabd6d2ae7413cf514363d56851b1e5eb98be8592ff3ef7"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_6ef18c7a1653021e2b2813adf02365690bfcc7d8d23456a488b42d51d347a58d",
+      "author": {
+        "name": "Полина Захаренко",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/75xzvhb5t6dkc8aw9tg8x7c0fg"
+      },
+      "rating": 5,
+      "text": "Отличное агентство, организовывали тур в Египет с Ириной, помогла выбрать хороший отель под наш запрос, так же хорошо ориентировалась в особенностях каждого отеля и в целом сетей отелей, никаких недочетов по туру и организации не было, отдыхом остались довольны 👍🏻",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "c8755ec254ffbd3f6d0dd561d1e14fa877e3159db12f086b2cb5244cc7d4f540"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_8af2113abaf6de8f86166a1962e85693eb7de79fb5e672457e8b7def0ecaa920",
+      "author": {
+        "name": "Наталия Н.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/2kmq1kg811t4t2767ug3h79w4g"
+      },
+      "rating": 5,
+      "text": "Хочется поблагодарить Loft Travel и отдельное спасибо специалисту Елене за организацию путешествий нашей семьи! Спасибо за профессионализм, ответственность, помочь в выборе направления и отелей, корректные и ненавязчивые рекомендации, поддержку на протяжении всего отдыха!",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "06251cccffe9cc6e078f3359e7568d378490290a9ca4bcef527a1b0ceee1b965"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_927d4b9955f67b408126a006f5734b2d7a866c29f8f02c91e0cbc316b9bd256d",
+      "author": {
+        "name": "Дарья Русланова",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/np2hxk3pf99zj0bqaev19xztdg"
+      },
+      "rating": 5,
+      "text": "Огромная благодарность турагентству за наш отдых в Турции! Сопровождение было на высшем уровне) Был незабываемый и отличный отпуск) Уже ждём следующего в Египет)",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "922fee8cf81cb734930cd5257e0b9031dc362d1a87688aef30debb9858e0e109"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_b770d8ed7cd313a2b35ce17c18dce90a2677efb3b54d0f7afeb8bdac87b76520",
+      "author": {
+        "name": "Ольга Пацкевич",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/vgxpvt44zrqvv9tgrbkbhtprc4"
+      },
+      "rating": 5,
+      "text": "Супер профессиональный подход к делу! Летали с Лофтом во Вьетнам, Турцию, сейчас планируем Грузию. Всегда очень подробная обработка запроса и отличные варианты для выбора, документы вовремя, на связи круглосуточно с туристами. Спасибо за подход!",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "ce6d2c493ca1658de7c6229bfae0c7266b9c6ece71bbf2966f88e6125d6452a9"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_c45c93137d3bbfc99b9b4455f9a749ddaeec019d25527f76a985c4d5afbfe124",
+      "author": {
+        "name": "Елена Бондаровец",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/n455c5xe7q2gg49f70yquzn030"
+      },
+      "rating": 5,
+      "text": "Турагентств и турагентов много, а таких замечательный профессионалов очень мало! Второй раз с мужем бронируем тур именно здесь. Всегда подробно и грамотно проконсультируют, предложат лучшее и расскажут все как есть. Отдельное спасибо Елене 🫶 И в целом всему коллективу. Очень чувствуется любовь к своему делу и клиентам !",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "9f5b45080a3a030a4550863bf3263c0c66913635654029fa1d6e7245c4568a8b"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_da740b5e2af526d971fc88ddf63a038aebfe6067152e375143a8c3b5bc64ae58",
+      "author": {
+        "name": "ангелина запеко",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/hdxbk3x052av1xrf8zacy0f60r"
+      },
+      "rating": 5,
+      "text": "Хочу выразить благодарность агентству Loft travel и лично менеджеру Виктории за наш отдых в Турции. Виктория подобрала тур с учетом всех наших пожеланий, всегда была на связи и отвечала на множество вопросов, все документы были подготовлены вовремя. А…",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "8eb2c5eb631b1886c99cebde",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/8eb2c5eb631b1886c99cebde.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/8eb2c5eb631b1886c99cebde.webp",
+          "width": 4284,
+          "height": 5712,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "1361f79337770cfe6307945c",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/1361f79337770cfe6307945c.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/1361f79337770cfe6307945c.webp",
+          "width": 4284,
+          "height": 5712,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "8884d3ffae41f51e612ed49a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/8884d3ffae41f51e612ed49a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/8884d3ffae41f51e612ed49a.webp",
+          "width": 4284,
+          "height": 5712,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "645d74ef1c43847e777fc4d007ba9faf155cbd6f56d804bdbfccbb97208f4325"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_e9fca69217a7ec309d167a165f20fb3a72ed0d0d9135f55ff3838f583b3abcbe",
+      "author": {
+        "name": "елена мальцева",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/b639w25qj9nuyzv2grzkt718kr"
+      },
+      "rating": 5,
+      "text": "Оформила в этом году поездку с девочками из этой фирмы. Все чётко, конкретно, по делу. Я пришла уже почти с выбранным отелем, но мне всеравно были предложены другие варианты. Чётко озвучены возможные минусы и плюсы. Что для меня было важно, учитывая негативный опыт, чтобы документы были оформлены правильно без ошибок, я хочу улететь тогда когда хочу, так вот здесь я ушла с уверенностью и спокойствием. Более того , агентство не пропало до вылета, напоминают о важных моментах в мессенджерах, меня действительно сопровождают. Очень приятно.",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "b15f5b2b881678822b519aef86deaf979ccf2e9d3e04006461e0500ab05caa02"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_ebeef0ff2701362a1226e42cffc2c17ebcce917870720e64493215846989ce42",
+      "author": {
+        "name": "Елизавета Лещинская",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/4k794p7u5jcq6ru21frc8mqudr"
+      },
+      "rating": 5,
+      "text": "Ездила от Лофт Тревел впервые в Италию! Только положительные эмоции, прекрасное внимательное сопровождение от менеджера Ирины Дранчук! Благодаря позитивному первому опыту теперь без проблем езжу в Италию сама, а в лофт тревел прихожу за Египтом и другими странами🥰",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "477f5820fe2df74d8bec3f44",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/477f5820fe2df74d8bec3f44.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/477f5820fe2df74d8bec3f44.webp",
+          "width": 1440,
+          "height": 1440,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "955eff285aad587b8ac1a823",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/955eff285aad587b8ac1a823.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/955eff285aad587b8ac1a823.webp",
+          "width": 960,
+          "height": 960,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "e546ddcca1274ff7d6e3d865",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/e546ddcca1274ff7d6e3d865.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/e546ddcca1274ff7d6e3d865.webp",
+          "width": 1440,
+          "height": 1440,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "08ace8b33e62638c9ed12b7b",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/08ace8b33e62638c9ed12b7b.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/08ace8b33e62638c9ed12b7b.webp",
+          "width": 960,
+          "height": 960,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "d176f9e45d3b04b2abe2ddba436e1bdddce6c8069d0cb6cedfa7c786edb57bce"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_ecf3428e1e8fa5f565a13e346778f965db8716685a1bdb4d230dc26adbccc610",
+      "author": {
+        "name": "Сергей Федюков",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/ea7kpc9h0pbedhay51hy9zanmc"
+      },
+      "rating": 5,
+      "text": "У этом году уже наверно 7 или 8 раз отдыхаем через Лофт тревел. Оч нравится индивидуальный сервис и постоянная поддержка специалистов на каждом этапе путешествия от покупки тура до возвращения домой!",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "8381e0a16e435af9ae592ab2a50895de57ce037d9de6aba5d84b7384bc9faa5a"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_035eb2b6d37029d1541abc47e948bd310cd62f204dfd023ef837ff7ec5efd2a2",
+      "author": {
+        "name": "Татьяна Рубан",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/2ppaw3etchmq9765jrdzmar52m"
+      },
+      "rating": 5,
+      "text": "Замечательная команда! В отдельности хочу поблагодарить Ирину! Всегда была на связи, помогала с решением любого вопроса. Отдых прошел замечательно! Будем обращаться ещё.",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "87747dabd46614a7a685a35c2d998cf8aaa45e35f5468c0e048574d928486b5f"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_310cd2135bf237cd948f8f828b7b0abb8c7f6f11ccbdb51bd67c52560382c659",
+      "author": {
+        "name": "Ирина Т.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/kwz4yj78601w8m5re1xtva6p3m"
+      },
+      "rating": 5,
+      "text": "Лучшее агентство для нашей семьи, менеджер Екатерина всё подробно расскажет и посоветует идеальный вариант под ваш запрос.Всем рекомендую обращаться за организацией идеального отдыха ,не пожалеете.",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "e95cc11fe4d9f5b8e6d57dabbe1bb988201f5699d41456530e4a0a8555e57794"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_31945db9d232fbad65fddf6e30d2cf083f6219d2699c983a13527feb5abe7e0a",
+      "author": {
+        "name": "Анастасия Астрякова",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/5t1ebccbyjuzk33qu09ag1e924"
+      },
+      "rating": 5,
+      "text": "Я очень и очень благодарна Елене за помощь в выборе тура, ответы на все мои вопросы, участие и заботу)",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "6e22be4298809f5e18f05914346b029ac565e8a8c60c74701c89482ba4e1cace"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_522b0e34f981d08f419e13f12c661f327fb7d56398256ff413bbbff48972704e",
+      "author": {
+        "name": "Анастасия Белько ❤️",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/7xd1e9hfmz7m7w5k6f848kb7x8"
+      },
+      "rating": 5,
+      "text": "Хотим поблагодарить компанию «Лофт Тревел» и лично нашего менеджера Ирину за организацию чудесного отдыха в Египте! С самого начала Ирина проявила себя как настоящий профессионал: очень внимательно выслушала все наши пожелания, предложила отличные варианты отелей и помогла выбрать именно тот, который подошел нам на 100%. Мы чувствовали поддержку на каждом этапе — от оформления документов до самого вылета. Отпуск прошел великолепно, всё было организовано четко и без заминок. Нам всё безумно понравилось! Если вы хотите быть уверены в своем отдыхе, очень рекомендуем обращаться в их компанию . Теперь за путешествиями — только в «Лофт Тревел»! ❤️ В этом году летим уже в Турцию…! ✈️🌊",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "dc5055439281fa536b9e56e6be32158d730bca528c20bd63778baf1a07e90320"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_79bc4960db2335f0cb10fa2a2e4a6246c0d804714fff1f3b7ee20ec5bf8013b2",
+      "author": {
+        "name": "Ольга Сетько",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/amhhr12523gcf04tnyrvjku8xg"
+      },
+      "rating": 5,
+      "text": "Отдыхаем с эти великолепным агенством во второй раз. Очень довольны качеством отдыха. Отдельное спасибо Екатерине за помощь в подборе тура. Учли все наши пожелания.",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "d2446fed01fdc0c44cd282ac1022372c3cfae6311c1cd9099093a64d8a50259d"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_90abbaa209bd9bc0509416da523dbdfaaeae646dec184bcafb3e32e2751e42a8",
+      "author": {
+        "name": "Vitali Krasouski",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/bhg9fxhrp2wqe7vc8pda06n5c4"
+      },
+      "rating": 5,
+      "text": "Лофт Трэвел — вы лучшие! 😍 Сначала подписался на их Instagram и просто кайфовал от контента: всё очень стильно, информативно, без лишней воды и с классным визуалом. Сразу видно, что команда горит своим делом. ​Когда дело дошло до бронирования, я окончательно влюбился в это агентство. Клиентоориентированность просто топ! Такого внимательного отношения к деталям и моим пожеланиям я давно не встречал. Менеджеры невероятно чуткие, вежливые и терпеливые, ведут тебя за ручку от начала и до конца поездки. Сервис превзошёл все ожидания. Спасибо за крутой отпуск, теперь я ваш постоянный клиент! Настоящие профессионалы! 🚀",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "9a764a60d93488624a8e9119",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/9a764a60d93488624a8e9119.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/9a764a60d93488624a8e9119.webp",
+          "width": 4284,
+          "height": 5712,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "ffc96cc2902806b4ca23a2a0",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/ffc96cc2902806b4ca23a2a0.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/ffc96cc2902806b4ca23a2a0.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "cefb7c57769c1d27b13bb364508a9dbb1e96b31f48d21db45ca025ecab3fa205"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_934077b59f65e1b451e69b88a610b799478792dd32e7619be12ff316b3e98555",
+      "author": {
+        "name": "Хадича М.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/ftgrj6tw8wjk4cp2jenq6mzrc8"
+      },
+      "rating": 5,
+      "text": "Во второй раз обращаемся к Ирине в Loft travel. Очень отзывчивый и душевный специалист, расскажет всё как есть, в сравнении порекомендует где лучше, а где хуже, учтет все запросы) Спасибо за организованные туры 🤍",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "c2d0d42da251a47b2624fd6661860b4847f18922c570a6fb9e3b70ffee701c75"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_95d15cb005bc4f979fecf8c7285a6f0b1dbdc7d8153f48b868593037edc8314d",
+      "author": {
+        "name": "Стас Н.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/pe2bcgj0tyccu3chy67814hp2m"
+      },
+      "rating": 5,
+      "text": "Повезло с Ириной из лофт Трэвел. Уже третий год летаем на отдых только с её помощью. Очень внимательная к нашим запросам и пожеланиям. Всегда приятная коммуникация. Спасибо за ваш профессионализм.",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "2fcbc5ddc5732ad3a1536fd9",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/2fcbc5ddc5732ad3a1536fd9.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/2fcbc5ddc5732ad3a1536fd9.webp",
+          "width": 1280,
+          "height": 960,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "f56ef933bbe6bc809a0d0a6a47576f82c870c4f38175f21d8eaa8423ae93942d"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_a2217ac784d75ecb684d9f46d87b181f784f82c0abb5f9b9296047e6da0a003f",
+      "author": {
+        "name": "Тамара С.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/h73n77na7mdrfpb4zrzrwn6ar4"
+      },
+      "rating": 5,
+      "text": "Помогли подобрать тур по всем нашим многочисленным нюансам, активно участвовали в выборе. В общении было комфортно. Быстро реагировали в чате.",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "2f3cae7be70c012c769f1413ddd66a65099ca4f53847fbe9acf885d8b7329439"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_af31c38bfbc678e7b48a9e7a2097b01b88d1f13769b84d91f5c00a9c2ee34788",
+      "author": {
+        "name": "Надя",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/qdfa53m2e3ec24upvdwpnttpf8"
+      },
+      "rating": 5,
+      "text": "Неделю назад летали на отдых туром Лофт Трэвел. Учли все пожелания и помогли с нестандартным запросом. Елена была всегда на связи в будний и выходные, помогала решить все вопросы. Путешествие прошло без заминок, отдых очень понравился! Уже думаем над следующим. Спасибо 🫶",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "44ae6656925629953bc921dc",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/44ae6656925629953bc921dc.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/44ae6656925629953bc921dc.webp",
+          "width": 2268,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "5e22dd98d7ac552c18119dde",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/5e22dd98d7ac552c18119dde.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/5e22dd98d7ac552c18119dde.webp",
+          "width": 2268,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "57e07f9cf32e4754da233fa4f881f3e43d724d4bfd98231d0270481436ea7411"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_ff233c3ae4b5e51db9fbca7ea4116bec864053405372a0fa8289313a1f363c78",
+      "author": {
+        "name": "Алена Лисок",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/xhq375wmu6jrg9uj4qdryy8z3r"
+      },
+      "rating": 5,
+      "text": "Летаем отдыхать с этой компанией с 2019 года. Смело рекомендуем всем друзьям и знакомым. Девушки очень приятные, постоянно на связи: как до отдыха, так и во время. Для деток в самолет собирают очень приятные подарки, которые действительно завлекают малышей.",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "7db976059a2b177b40bcb6a406139b0e739f4843cb9a5bb86f39348e9f84ba0b"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_92888a31c5fc9ba3177e2487a52ece8c81663b3f331ed36deb18d5630351e474",
+      "author": {
+        "name": "Анна",
+        "avatar_url": null,
+        "profile_url": null
+      },
+      "rating": 5,
+      "text": "Спасибо Вашему турагентству за организованный отдых в Турции! Специалист Ирина выслушала все пожелания, а также учла найденный нами отель, составила подборку с ценами под наш бюджет. Отмечу, что цены очень приятные. Ирина подробно отвечала на все наши вопросы по…",
+      "published_at_text": "18 мая",
+      "published_at": "2026-05-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "01abe9f65138d5f321884651",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/01abe9f65138d5f321884651.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/01abe9f65138d5f321884651.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "e81c05ea0464aba602a82648",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/e81c05ea0464aba602a82648.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/e81c05ea0464aba602a82648.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "576294ee930147acaf46b212",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/576294ee930147acaf46b212.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/576294ee930147acaf46b212.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "d8a6ebb1ab132e7b10c19ea6",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/d8a6ebb1ab132e7b10c19ea6.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/d8a6ebb1ab132e7b10c19ea6.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "298fd76349e54e298a228bb9750313223e9307c29481b855571b3ea6da316c10"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WalJIaE5SVGN0WWxOWVRVTlpjVkJrZVVNMU1uYxAB",
+      "author": {
+        "name": "Елена Гутман",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/d80e9cdbeae5efbffadc4964.webp",
+        "profile_url": "https://www.google.com/maps/contrib/100680737609813617493/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Искренне благодарю Лофт Трэвел в лице Слабухо Ирины за профессиональную работу, за отличную организацию, поддержку и внимательное отношение. С легкой руки Ирины мы отдыхаем уже много лет по разным направлениям. И всегда я уверена, что в любой ситуации она будет рядом, и не смотря на форсмажор, как турагент будет на моей стороне. В наше время это дорогого стоит!!! От души желаю компании и вам лично процветания, финансового благополучия и благодарных клиентов!❤️",
+      "published_at_text": "6 месяцев назад",
+      "published_at": "2026-02-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "2903bdadca9d5a8fb8739d7a75c61f2b1cea5637f08d7e207029d9f62d74cc3c"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0NWRHSlFWV1JqYW1nNFRHRlVVazlxZFd0TlRtYxAB",
+      "author": {
+        "name": "Полина Полина",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/e57b82cf2c20a6f1f18f2dd6.webp",
+        "profile_url": "https://www.google.com/maps/contrib/105755096260764225811/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Выражаю огромную благодарность LoftTravel, в особенности Ирине, за помощь в подборе тура на отдых в Египте, Шарм-эль-Шейх. Помогла подобрать отличный отель, по супер цене. Зимой окунулись в летнюю сказку)) Спасибо))",
+      "published_at_text": "6 месяцев назад",
+      "published_at": "2026-02-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "fa85958381e30c0e4baf66681bff6664a7c523a22c9d001a1e744e80533f8580"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaVdWZDJRM0p0UzIwMlZVYzJhemhDYm1vMVVsRRAB",
+      "author": {
+        "name": "Наталья Хлебус",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/f7a3d7a6287c3745a0b99f94.webp",
+        "profile_url": "https://www.google.com/maps/contrib/106673621510041289397/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Путешествие на Шри-Ланку в декабре 2025 года с помощью агента Екатерины было приятным и комфортным: от помощи в выборе программы и детальных консультаций до оперативной поддержки на протяжении всей поездки. Приятно, когда агент действительно заботится о своих клиентах!",
+      "published_at_text": "6 месяцев назад",
+      "published_at": "2026-02-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "406ca9379f8e8dd43f37ea8820abe6db38d1de8c0b583f19b874833d60834daf"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_5b0ffeafb37b1fbbb1fdd6f62b101db50444a38f24ace675020df92862ba6689",
+      "author": {
+        "name": "Елена Гутман",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/8z07hu1xryaed92ghx9qx3m3dw"
+      },
+      "rating": 5,
+      "text": "Искренне благодарю Лофт Трэвел в лице Слабухо Ирины за профессиональную работу, за отличную организацию, поддержку и внимательное отношение. С легкой руки Ирины мы отдыхаем уже много лет по разным направлениям. И всегда я уверена, что в любой ситуации…",
+      "published_at_text": "6 февраля",
+      "published_at": "2026-02-06",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "557c3c632444b43ce3f73f26",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/557c3c632444b43ce3f73f26.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/557c3c632444b43ce3f73f26.webp",
+          "width": 720,
+          "height": 1280,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "fc6d8c90ad4c7f9c6bf63aad",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/fc6d8c90ad4c7f9c6bf63aad.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/fc6d8c90ad4c7f9c6bf63aad.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "3fc63f0b7a25ad8aa8836731",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/3fc63f0b7a25ad8aa8836731.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/3fc63f0b7a25ad8aa8836731.webp",
+          "width": 1848,
+          "height": 4000,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "a6c32efa2275ac5a2ed218a7",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/a6c32efa2275ac5a2ed218a7.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/a6c32efa2275ac5a2ed218a7.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "e4f08aec1b30224e138c3f8f5e278e2bd1cf02f9b60fd592e13d19fe7d945d38"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_95d7b0ba879e65df6321476530a8cdafc7116d96521bcb16d8030e82df4948a9",
+      "author": {
+        "name": "Наталья Хлебус",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/e3zbap4nnyq8qwrae4vpma1b4w"
+      },
+      "rating": 5,
+      "text": "Летали в декабре 2025г в Шри Ланку от турагента Екатерины. Прекрасный опыт, начиная от помощи Екатерины в выборе направления, детальном разъяснении всех моментов тура, до поддержки в течение самой поездки. Приятно иметь дело с агентом, чувствуя его заботу о своих туристах",
+      "published_at_text": "27 января",
+      "published_at": "2026-01-27",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "805c8d4cfa2500f2c185c7733d5a2d4ac67b53e51310d71d59ced5134d39c6b8"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_ff42c263f815d0e007f18d7c63a71442f5a04798bec54b0d6024dfca2e9dacf8",
+      "author": {
+        "name": "Анастасия Ч.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/24qbtb7m3k0ukp5kgcyf4q2jb8"
+      },
+      "rating": 5,
+      "text": "В компании работают прекрасные специалисты! Очень подробно рассказали про несколько стран (Вьетнам, Китай, ОАЭ), указали на нюансы, которые и в голову не приходили) и так помогли определиться с направлением, уточнили все пожелания) Оформление тура официально, договор. Перед поездкой провели подробный инструктаж, во время отдыха тоже отвечали на наши вопросы, а после - поинтересовались впечатлениями, приятно😊 Спасибо, девушки, мы отлично отдохнули в отличном отеле благодаря вам!",
+      "published_at_text": "20 января",
+      "published_at": "2026-01-20",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "f25309db4911132a74b84ac436abf9749ac440279887d3bcaaab8a8881ad02d0"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_e7f293712f614c9522c635da26a5fbef7a19ebf53c92f0d441edfef05b4f48f4",
+      "author": {
+        "name": "Аня",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/pfawf7xrcnhqgh1pm9f7b224g4"
+      },
+      "rating": 5,
+      "text": "Хочу поблагодарить девушек из Лофт трэвел за + 2 страны в копилку моих воспоминаний. Дважды летала отдыхать благодаря им, учитывали все пожелания (их было немало, и так уж вышло, что постоянно менялись - мы меняли направление отдыха, город вылета, продолжительность и даже состав) - все это с максимально дружелюбным отношением и невероятным терпением. Мы были на связи до, во время и после отдыха буквально 24/7. Еще раз большое спасибо!",
+      "published_at_text": "15 января",
+      "published_at": "2026-01-15",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "53049456e4d9e3544acfc01a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/53049456e4d9e3544acfc01a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/53049456e4d9e3544acfc01a.webp",
+          "width": 2268,
+          "height": 3829,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "61f0969b78d5a1d461dbdf7a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/61f0969b78d5a1d461dbdf7a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/61f0969b78d5a1d461dbdf7a.webp",
+          "width": 720,
+          "height": 1280,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "d7b82a17dee40a9679c53232",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/d7b82a17dee40a9679c53232.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/d7b82a17dee40a9679c53232.webp",
+          "width": 960,
+          "height": 1280,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "7f25b202fbebfd36a24009b17cf7b3684804f4f4c85bb0c7c920bc747ca99ff2"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_3574fcbb8763d5dd084c6f998ba616db7abcb4357561e2fb8f0ea2c6486ae064",
+      "author": {
+        "name": "Андрей М.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/h5gwr2mvk2frtgjbadxfbahdgr"
+      },
+      "rating": 1,
+      "text": "Хочу написать негативный отзыв. Заказали путёвку в Китай . Нам попался менеджер который не знает по Китаю ничего ( она сама нам так и сказала). Менеджера интересовали только денежные средства, и никакой информации . На вопросы нас интересующие внятного ответа не было !!…",
+      "published_at_text": "6 января",
+      "published_at": "2026-01-06",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "514d358b4a68525613a384838f288d33d2df195518d6a8dbee52bb6097d700cf"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCd09FSk9kMmxvWVZCcGNuVXpNbEF3Y0ZwMVIwRRAB",
+      "author": {
+        "name": "Zhyzhella23 23112311lk1991",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/3325ac52c73313e3e380c569.webp",
+        "profile_url": "https://www.google.com/maps/contrib/114750027154527179482/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Уже второй год за наш отличный отдых отвечает Лофт Трэвел. Как говорится отдых под ключ!!! Огромное спасибо Ирине, за качественный подбор тура.",
+      "published_at_text": "9 месяцев назад",
+      "published_at": "2025-11-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "6a0bc6c8fcd1333722a90a86",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/6a0bc6c8fcd1333722a90a86.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/6a0bc6c8fcd1333722a90a86.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "c91a935a21277943313e1f12",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/c91a935a21277943313e1f12.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/c91a935a21277943313e1f12.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "27357cc2fe5751ae29d6619d",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/27357cc2fe5751ae29d6619d.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/27357cc2fe5751ae29d6619d.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "e735afb13591abe719a21eb9",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/e735afb13591abe719a21eb9.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/e735afb13591abe719a21eb9.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "8c9ecc877ceae9ead30a5be7affa992ea1861c7180377fc7da3a4160ba41e6b5"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUE9VRm1SRE5zU21rd1VsaFNRVzFIUzNGcVltYxAB",
+      "author": {
+        "name": "Юлия Слюнькова",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/2bde554e538aa0859c01fd7b.webp",
+        "profile_url": "https://www.google.com/maps/contrib/112142915175407567026/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочу выразить благодарность фирме Лофт Трэвел за профессионализм. Уже многие годы пользуюсь услугами данной турфирмы и с радостью советую ее своим знакомым. Только сейчас вернулись из Турции, и в очередной раз все было на высшем уровне, учли все мои пожелания, даже больше, Ирина была даже в роли психолога, так как впервые брала индивидуальный трансфер, был небольшой страх, сомнения, но Ирина всегда была на связи и поддерживала, по итогу все прошло прекрасно. Следующий отдых конечно же с вами)",
+      "published_at_text": "10 месяцев назад",
+      "published_at": "2025-10-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "c6c095b34c168f8dde550d8c",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/c6c095b34c168f8dde550d8c.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/c6c095b34c168f8dde550d8c.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "f9bfe9213528d2d97e178377",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/f9bfe9213528d2d97e178377.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/f9bfe9213528d2d97e178377.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "d53c03b286f1f42fb236af6c",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/d53c03b286f1f42fb236af6c.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/d53c03b286f1f42fb236af6c.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "efe914097e377479d4cf4e7e",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/efe914097e377479d4cf4e7e.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/efe914097e377479d4cf4e7e.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "77293daf239bb9672dd0d5094d2bd315fefed3055a286f9f31ee172bb388cf4e"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kc1VsbDVOR0V0UmxoTE9VcFdkRzlGTm1aMGVXYxAB",
+      "author": {
+        "name": "Victoria Komiakova",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/153dfe3c38aceba81237fa48.webp",
+        "profile_url": "https://www.google.com/maps/contrib/101679967133773272401/reviews?hl=ru"
+      },
+      "rating": 2,
+      "text": "Обратилась с подбором тура по четким параметрам, отметила, что буду готова оплатить в самое ближайшее время. В итоге столкнулась буквально с нулевым уровнем клиентоориентированности. Получила базовую бесполезную подборку, которая на половину не подходила по параметрам (даже пожелания по месту отдыха не учли). После моего уточнения просто пропали. Да и до этого общение было в таком духе, будто мой отдых будет оплачивать менеджер, а не я сама. В красивую картинку вложились, но не в отношение к людям",
+      "published_at_text": "10 месяцев назад",
+      "published_at": "2025-10-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "a08cea69cc0723e4d920d0cf77e7b1dc02e23ed68b06783837b72e3856c561b3"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSclgyUkRXblpaVFZSVllXZ3RWMGxIZFhCSmVYYxAB",
+      "author": {
+        "name": "Ольга Серая",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/8bb161b3cf4c6fce3c4b41f4.webp",
+        "profile_url": "https://www.google.com/maps/contrib/104813660000994321138/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Ещё свежи яркие воспоминания! Недавно вернулись из Грузии, которую организовало турагентство Лофт Тревел и хочу поделиться своими впечатлениями! У нас был комбинированный тур жили по несколько дней в Батуми , Боржоми и Тбилиси и посещали близ лежащие достопримечательности. Между городами — индивидуальный трансфер, по которому у нас была договорённость до отъезда в отпуск и это очень облегчило путешествие. В каждом городе был подобран отель, который идеально соответствовал нашему запросу. Составлен оптимальный маршрут в каждом регионе. Все вопросы решались оперативно и профессионально. Мы заранее позаботились о связи, подключили Роуминг, который позволил общаться без ограничений и в моменте. Благодаря Лофт Тревел наша поездка оставила незабываемые впечатления и эмоции . Обязательно ещё вернемся в Грузию. Именно с этой турфирмой мы путешествуем с 2018 и планируем продолжать это делать. Искренне рекомендую доверить свой отпуск Лофт Тревел!!!",
+      "published_at_text": "10 месяцев назад",
+      "published_at": "2025-10-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "7c0e8c534c66362ad8b24f8e63884cfb210e0ad12a00ef683308bac22d414e23"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4MFpXZFJkalpKYUZKV1dEVnlNWHBDVURZMWJHYxAB",
+      "author": {
+        "name": "Анастасия Добрынина",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/501b4d305c0e603398048736.webp",
+        "profile_url": "https://www.google.com/maps/contrib/111958346046058000676/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочу поделиться самыми приятными впечатлениями о компании, срочно нужно было подобрать тур ) захотелось на море . Девочки сработали быстро , подобрали несколько вариантов под запрос , дали подробную информацию . Сопроводили на каждом этапе …",
+      "published_at_text": "10 месяцев назад",
+      "published_at": "2025-10-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "8e81819b6a1b419e89f53c1585412cb782eb6047e1af91dcc5fda73025d9defe"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSTU1UVmFkbTV5ZUZKSmVrNHhVRmRLTUhOUFgzYxAB",
+      "author": {
+        "name": "Julia Melnichenko",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/f3016505b8628f23f6471069.webp",
+        "profile_url": "https://www.google.com/maps/contrib/102547697536386903234/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочу оставить положительный отзыв о работе турагентства Лофт трэвел. Недавно воспользовалась их услугами и осталась очень довольна. Хорошо организованный процесс взаимодействия: быстро вместе подобрали тур по …",
+      "published_at_text": "10 месяцев назад",
+      "published_at": "2025-10-15",
+      "published_at_is_approximate": true,
+      "date_precision": "month",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "89c7d4641578fb747792b4ab",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/89c7d4641578fb747792b4ab.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/89c7d4641578fb747792b4ab.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "d00efd637f2076029b6239a4",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/d00efd637f2076029b6239a4.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/d00efd637f2076029b6239a4.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "1e1b948c0e0a7cdabaedd1c1",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/1e1b948c0e0a7cdabaedd1c1.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/1e1b948c0e0a7cdabaedd1c1.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "e1bec65be0e69f9ba7da69393a83579c428aea60e2db4ccb44098e0777e428c3"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_4691cbb9a32c6a64f76a97ff663aed33e662adca27d4617867db77d6dd910f8f",
+      "author": {
+        "name": "Валентина К.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/wa7vaw1p5u3etm5mv66xb9jw1g"
+      },
+      "rating": 5,
+      "text": "Отдыхаю с Лофт Трэвел уже 3й год. И каждый раз всё четко, по делу, согласно моему запросу. Благодарю менеджера Викторию Климович за помощь в выборе нашего февральского тура на Шри-Ланку. В ситуации, когда у нас случился овербукинг в отеле, она была на связи, помогала решить этот вопрос. В итоге мы получили отель даже лучше забронированного! И всегда предложат вкусный кофе в офисе👍🏻 Обязательно вернемся к вам снова🫶🏻 мы нашли своё турагентство!",
+      "published_at_text": "25 августа 2025",
+      "published_at": "2025-08-25",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "ed29321331b945b9b7ad9b3e",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/ed29321331b945b9b7ad9b3e.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/ed29321331b945b9b7ad9b3e.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "545d177ca02ce8148832e84a",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/545d177ca02ce8148832e84a.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/545d177ca02ce8148832e84a.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "5050395d662f9e7264d8faf1",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/5050395d662f9e7264d8faf1.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/5050395d662f9e7264d8faf1.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "22d06e6326fc107868333205",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/22d06e6326fc107868333205.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/22d06e6326fc107868333205.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "b5bfd1731b0ab855e8fa3b0366a04aa180a496260e9f70e58d7c2f83f4b6ce39"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_40cff33a337a72d65f6adfd6543b50cd1ba1e0837b6619c3da889e8e046515a5",
+      "author": {
+        "name": "Богдан Ч.",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/3m50qtbtaw134nnqvyzrfd75zc"
+      },
+      "rating": 5,
+      "text": "Хочу поблагодарить туристическую компанию Лофт Трэвел за отлично подобранный тур на Кубу! Всё прошло просто замечательно — от момента подбора тура до самого отдыха. Отдельное огромное спасибо Ирине за профессионализм, внимание к деталям и искреннюю заботу. Она учла…",
+      "published_at_text": "29 июля 2025",
+      "published_at": "2025-07-29",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [
+        {
+          "id": "c496bbb007ca4bcbd3153573",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/c496bbb007ca4bcbd3153573.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/c496bbb007ca4bcbd3153573.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "eba953de555190f94e48c7a0",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/eba953de555190f94e48c7a0.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/eba953de555190f94e48c7a0.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "147abe3632ac6cb0c00cb109",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/147abe3632ac6cb0c00cb109.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/147abe3632ac6cb0c00cb109.webp",
+          "width": 3024,
+          "height": 4032,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "c6d6829f4e7fe7203d29e778c3ae9bc4d99fdc2d5850037ae897b27e3c982999"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKX2EyYXVnRRAB",
+      "author": {
+        "name": "Наталья Шемякина",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/1a291c39f9746f18047a3803.webp",
+        "profile_url": "https://www.google.com/maps/contrib/114012583534097082921/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Отличное турагентство! Покупаю туры уже более 2 лет. Особенно рекомендую менеджера Климович Викторию - внимательное отношение, невероятная забота, подбор отеля с учетом всех пожеланий. Хочу отметить, что я требовательный клиент и долго выбираю отель, рассматриваю много вариантов, при этом Виктория терпеливо сопровождает каждый процесс выбора, помогает определиться, с учетом своего опыта и профессионализма. Перед вылетом - всегда подробный инструктаж, что учесть в поездке. Больше нет необходимости обращаться в другие агентства. От души рекомендую Викторию и Лофт Тревел!",
+      "published_at_text": "3 года назад",
+      "published_at": "2023-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "0ae8882aba89c582d21131c99a9f4ef95c68eb43cc25b856221594290f737f25"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_c73f2ef0b6f09d401181c7dd973b882a861e3badc0e77efe28a67c8b510841c8",
+      "author": {
+        "name": "Авокадо",
+        "avatar_url": null,
+        "profile_url": null
+      },
+      "rating": 1,
+      "text": "В мессенджерах игнорят. Обещали перезвонить - не перезвонили, обещали скинуть вариант отеля - не скинули, а потом на мой вопрос почему, сказали, что мне не подойдет это. А ничего что я жду????",
+      "published_at_text": "3 августа 2023",
+      "published_at": "2023-08-03",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "b7d5a0334bb9800896a80b458d0fd9d924109dd7171594f168e5bd698e700066"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_f3d902c3a4e6029548fb9fed41ee063906e521b4f40206a3f71fc8f4e38c226b",
+      "author": {
+        "name": "Светлана Гордынец",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/zpyxh48mhy4q9082dv0xumxh70"
+      },
+      "rating": 5,
+      "text": "Путешествую с этим турагентством уже более года, каждые 6 месяцев. Всегда всё чётко, организовано, на высоком профессиональном уровне с максимальным комфортом для клиента. Особая благодарность Слабухе Ирине за внимание, терпение, умение выслушать и учесть все пожелания туриста. Желаю агентству дальнейшего развития, адекватных клиентов и успехов в новых туристических направлениях. С уважением и благодарностью Гордынец Светлана.",
+      "published_at_text": "20 июля 2023",
+      "published_at": "2023-07-20",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "bc190630a9c7a41a13ccbfeda2c969c703e073f0076dbc6c3a5a34aa9199256c"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5MmJtTW1RRRAB",
+      "author": {
+        "name": "Tatsiana Chaiko",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/aaebe7559576e15a878c9797.webp",
+        "profile_url": "https://www.google.com/maps/contrib/118098687864362374579/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Очень профессиональный подход, рекомендую! Ездили на Занзибар. Подобрали тур четко по нашим пожеланиям, все подробно разъяснили, никаких проблем не было! Первый опыт организации поездки с турагентством, и оказался очень удачным, теперь в 1ю …",
+      "published_at_text": "5 лет назад",
+      "published_at": "2021-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [
+        {
+          "id": "62eb02899ba3cfd42fa80a33",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/62eb02899ba3cfd42fa80a33.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/62eb02899ba3cfd42fa80a33.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "1b2c97278520f1be457f0be1",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/1b2c97278520f1be457f0be1.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/1b2c97278520f1be457f0be1.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "01c86797330fbe851a9f7e68",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/01c86797330fbe851a9f7e68.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/01c86797330fbe851a9f7e68.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        },
+        {
+          "id": "439ab7cc012e5124849feb1e",
+          "thumbnail_url": "https://lofttravel.github.io/lofttravel_rewies/media/thumbnails/439ab7cc012e5124849feb1e.webp",
+          "popup_url": "https://lofttravel.github.io/lofttravel_rewies/media/popup/439ab7cc012e5124849feb1e.webp",
+          "width": 1600,
+          "height": 1600,
+          "mime_type": "image/webp"
+        }
+      ],
+      "content_hash": "4e34c19d015791bf5c225dd458af09d9c3d2c857f1af0af49936d86f1b543cf8"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5OHRDTzl3RRAB",
+      "author": {
+        "name": "Solomon Davidov",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/b132b614a84ea65cad160518.webp",
+        "profile_url": "https://www.google.com/maps/contrib/104246425327344338891/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Не забываемый отдых, спасибо большое девчатам за море удовольствия, океан ощущений и хорошую организацию:)))",
+      "published_at_text": "5 лет назад",
+      "published_at": "2021-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "7b126d04929195fd4203570b1a12a58499402f968ab2757bda2e69534aa46e72"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxdFlpamhnRRAB",
+      "author": {
+        "name": "Мамуля Натуля",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/c9f5b407b679a18aa5e7c06f.webp",
+        "profile_url": "https://www.google.com/maps/contrib/114735743642455192336/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Специалист Мария подобрала нам по нашим требованиям суперский отель в Турции Eftalia ocean! Дети довольны, родители счастливы! Спасибо за качественную работу и хороший отдых в наше непростое время))",
+      "published_at_text": "5 лет назад",
+      "published_at": "2021-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "f547c3a85db353c8ea8057a11e66c80ac733d623c48c3e9ab165096ac74756f9"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5amFmVy13RRAB",
+      "author": {
+        "name": "Саша Жизневский",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/5a5889160a5292204d8899bf.webp",
+        "profile_url": "https://www.google.com/maps/contrib/109485101706521338877/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Спасибо сотрудницам компании, очень качественно организовали тур. Сопровождали на протяжении всего времени",
+      "published_at_text": "5 лет назад",
+      "published_at": "2021-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "12d7736cd0f2b29f1e7fd1d97d11d80ad23910700c2c0423ee09338452c17d9d"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChZDSUhNMG9nS0VJQ0FnSURLal9IemJ3EAE",
+      "author": {
+        "name": "Дарья Ассатурова",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/6f4e964c283e7dbf93ea9563.webp",
+        "profile_url": "https://www.google.com/maps/contrib/107213456153844831942/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Добрый день уважаемые будущие туристы! Если Вы ещё не решили с каким оператором работать, тогда Вам повезло, так как есть возможность поработать с чудесной компанией и ЛОФТ Трэвел. Хочу выразить ОГРОМНУЮ БЛАГОДАРНОСТЬ за высокий уровень …",
+      "published_at_text": "5 лет назад",
+      "published_at": "2021-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "8b87202817dee009b0c6cbd1a1ef43fba2183615259a82276b0b7d746bf5f0d4"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzaWRlVi13RRAB",
+      "author": {
+        "name": "Татьяна Федюкова",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/693efaa96f548824d0a45c6a.webp",
+        "profile_url": "https://www.google.com/maps/contrib/110762032033189387988/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочется выразить особую благодарность за чуткость и внимание к желаниям клиента, за отличный отдых турагенству Лофт Трэвел и отдельно поблагодарить Ирину и Елену! Все очень понравилось, остались довольными. Эмоций и впечатлений хватит еще на пол года, а потом снова к Вам!😚 Уже не первый раз проводим свой отпуск вместе с Лофт Трэвел. Удачи в работе и хороших клиентов 😊👍",
+      "published_at_text": "6 лет назад",
+      "published_at": "2020-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "65ad1be63a19c20ba8661040a5c2753a7a76b0f39ef56d3547290e97fed8da34"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwcXV6NUdnEAE",
+      "author": {
+        "name": "Александр Кацелло",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/8e10b8171fbea71af86ca21c.webp",
+        "profile_url": "https://www.google.com/maps/contrib/100447177619996315284/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Отдыхали с женой в Испании, с турфирмой Лофт Трэвел в сентябре 2019г. Все понравилось, все супер, все было сделано на высшем уровне!!!!!! ОГРОМНОЕ СПАСИБО!!!!!Рекомендуем!!!!!",
+      "published_at_text": "6 лет назад",
+      "published_at": "2020-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "a6fa64c67bc0e86aba871bac6a1cf4494fa29cda194c0f60d5626afddfc942c0"
+    },
+    {
+      "source": "google",
+      "source_place_id": "0x46dbcf13de883f57:0x7e6e3bff805d04d",
+      "source_review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwd2RlT0dREAE",
+      "author": {
+        "name": "Светлана Романюк",
+        "avatar_url": "https://lofttravel.github.io/lofttravel_rewies/media/avatars/a80f0d1b12b4db441236c8ab.webp",
+        "profile_url": "https://www.google.com/maps/contrib/110991273188859821357/reviews?hl=ru"
+      },
+      "rating": 5,
+      "text": "Хочу выразить благодарность за отличную организацию нашей поездки в \" Париж с комфортом\", которая была в октябре. В турфирме \"Лофт Трэвел\" работает менеджер Ирина Дранчук - грамотный, позитивный, тактичный, доброжелательный специалист. …",
+      "published_at_text": "Изменено 6 лет назад",
+      "published_at": "2020-08-15",
+      "published_at_is_approximate": true,
+      "date_precision": "year",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-08-15T16:59:30.205Z",
+      "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
+      "photos": [],
+      "content_hash": "8d06a6e7b1371f4273220a6a300a93adf9b8c1c28406380cc8ccdd436439c8ed"
+    }
+  ]
+}
