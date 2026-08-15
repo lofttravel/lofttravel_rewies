@@ -4,27 +4,41 @@ import { backgroundImageUrl, normalizeText, parseRating } from '../lib/text.mjs'
 const CARD = '.jftiEf[data-review-id]';
 
 export async function collectGoogle(page, sourceConfig) {
-  await page.goto(sourceConfig.url, { waitUntil: 'domcontentloaded', timeout: 60_000 });
-  if (new URL(page.url()).hostname === 'consent.google.com') {
-    const reject = page.getByRole('button', { name: /Отклонить все|Reject all/u });
-    await reject.waitFor({ state: 'visible', timeout: 15_000 });
-    await Promise.all([
-      page.waitForURL(/google\.[^/]+\/maps\//, { timeout: 30_000 }),
-      reject.click()
-    ]);
-  }
-  await page.waitForTimeout(3_000);
-  await detectBlock(page, 'google');
+  let reviewsVisible = false;
 
-  const reviewsTab = page.getByRole('tab', { name: /Отзывы о месте/u });
-  if (await reviewsTab.isVisible().catch(() => false)) {
-    await reviewsTab.click({ timeout: 10_000 });
-  } else {
-    const moreReviews = page.getByRole('button', { name: /Ещё отзывы/u });
-    if (await moreReviews.isVisible().catch(() => false)) await moreReviews.click({ timeout: 10_000 });
+  // Google Maps occasionally ignores the reviews route on the first navigation and
+  // opens the general place panel instead. Repeating the same canonical navigation
+  // is safe and substantially reduces transient failures in clean CI browsers.
+  for (let attempt = 1; attempt <= 3 && !reviewsVisible; attempt += 1) {
+    await page.goto(sourceConfig.url, { waitUntil: 'domcontentloaded', timeout: 60_000 });
+    if (new URL(page.url()).hostname === 'consent.google.com') {
+      const reject = page.getByRole('button', { name: /Отклонить все|Reject all/u });
+      await reject.waitFor({ state: 'visible', timeout: 15_000 });
+      await Promise.all([
+        page.waitForURL(/google\.[^/]+\/maps\//, { timeout: 30_000 }),
+        reject.click()
+      ]);
+    }
+
+    await page.waitForTimeout(attempt === 1 ? 3_000 : 5_000);
+    await detectBlock(page, 'google');
+
+    const reviewsTab = page.getByRole('tab', { name: /Отзывы о месте/u });
+    if (await reviewsTab.isVisible().catch(() => false)) {
+      await reviewsTab.click({ timeout: 10_000 });
+    } else {
+      const moreReviews = page.getByRole('button', { name: /Ещё отзывы/u });
+      if (await moreReviews.isVisible().catch(() => false)) await moreReviews.click({ timeout: 10_000 });
+    }
+
+    reviewsVisible = await page.locator(CARD).first().waitFor({ state: 'visible', timeout: 15_000 })
+      .then(() => true)
+      .catch(() => false);
   }
 
-  await page.locator(CARD).first().waitFor({ state: 'visible', timeout: 30_000 });
+  if (!reviewsVisible) {
+    throw new Error('google: не удалось открыть вкладку отзывов после 3 попыток');
+  }
   await scrollUntilStable(page, CARD, { maxRounds: 35, stableRounds: 5 });
   await expandAll(page, `${CARD} button[aria-label="Ещё"]`);
 

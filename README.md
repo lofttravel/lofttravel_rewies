@@ -39,7 +39,9 @@ Workflow запускается ежедневно в 03:23 по Минску и
 
 Публичные файлы:
 
-- `https://lofttravel.github.io/lofttravel_rewies/reviews.v1.json`
-- `https://lofttravel.github.io/lofttravel_rewies/manifest.json`
+- `https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/reviews.v1.json`
+- `https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/manifest.json`
+
+Файлы публикуются напрямую из ветки `main`, поэтому отдельная настройка GitHub Pages не требуется.
 
 При CAPTCHA, неожиданно малом количестве карточек или падении источника last-good файл не перезаписывается. Диагностические HTML и screenshot хранятся в artifact не более семи дней.

@@ -12,7 +12,7 @@ export const config = Object.freeze({
   manifestFile: path.join(root, 'public', 'manifest.json'),
   schemaFile: path.join(root, 'schemas', 'reviews.v1.schema.json'),
   timezone: 'Europe/Minsk',
-  publicBaseUrl: (process.env.PUBLIC_BASE_URL || 'https://lofttravel.github.io/lofttravel_rewies').replace(/\/$/, ''),
+  publicBaseUrl: (process.env.PUBLIC_BASE_URL || 'https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public').replace(/\/$/, ''),
   dryRun: process.env.REVIEWS_DRY_RUN === '1',
   headless: process.env.HEADLESS !== '0',
   maxPhotosPerReview: Number(process.env.MAX_PHOTOS_PER_REVIEW || 4),
