@@ -6,6 +6,7 @@ import { chromium } from 'playwright';
 import { collectGoogle } from './adapters/google.mjs';
 import { collectYandex } from './adapters/yandex.mjs';
 import { config } from './config.mjs';
+import { collectSourceWithRetry } from './lib/collect-source.mjs';
 import { processMedia, pruneUnreferencedMedia } from './lib/media.mjs';
 import { assertSaneCounts, mergeReviews } from './lib/merge.mjs';
 import { sha256 } from './lib/text.mjs';
@@ -38,7 +39,16 @@ try {
   ]) {
     const page = await context.newPage();
     try {
-      const reviews = await adapter(page, sourceConfig);
+      const previousCount = (previousFeed.reviews || []).filter(review => review.source === source).length;
+      const reviews = await collectSourceWithRetry({
+        source,
+        adapter,
+        page,
+        sourceConfig,
+        previousCount,
+        minimum: config.minimumReviewsPerSource
+      });
+
       console.log(`[${source}] collected ${reviews.length}`);
       for (const review of reviews) collected.push(await processMedia(review, config));
     } catch (error) {

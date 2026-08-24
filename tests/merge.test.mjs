@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mergeReviews } from '../src/lib/merge.mjs';
+import { assertSaneSourceCount, mergeReviews } from '../src/lib/merge.mjs';
 
 const base = {
   source: 'google', source_place_id: 'place', source_review_id: 'review-123',
@@ -19,4 +19,12 @@ test('keeps the first approximate date on later runs', () => {
 test('deduplicates repeated source ids', () => {
   const reviews = mergeReviews([base, base], [], new Date('2026-08-15T00:00:00Z'), 'Europe/Minsk');
   assert.equal(reviews.length, 1);
+});
+
+test('rejects a sharply truncated source result so the collector can retry', () => {
+  assert.throws(
+    () => assertSaneSourceCount('google', 10, 48, 5),
+    /google: резкое падение количества 48 → 10/
+  );
+  assert.doesNotThrow(() => assertSaneSourceCount('google', 48, 48, 5));
 });

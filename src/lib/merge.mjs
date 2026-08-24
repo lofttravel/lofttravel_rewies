@@ -53,9 +53,13 @@ export function assertSaneCounts(reviews, previousReviews, minimum) {
   for (const source of ['google', 'yandex']) {
     const count = reviews.filter(review => review.source === source).length;
     const previousCount = previousReviews.filter(review => review.source === source).length;
-    if (count < minimum) throw new Error(`${source}: получено только ${count} отзывов, минимум ${minimum}`);
-    if (previousCount >= minimum && count < Math.floor(previousCount * 0.6)) {
-      throw new Error(`${source}: резкое падение количества ${previousCount} → ${count}`);
-    }
+    assertSaneSourceCount(source, count, previousCount, minimum);
+  }
+}
+
+export function assertSaneSourceCount(source, count, previousCount, minimum) {
+  if (count < minimum) throw new Error(`${source}: получено только ${count} отзывов, минимум ${minimum}`);
+  if (previousCount >= minimum && count < Math.floor(previousCount * 0.6)) {
+    throw new Error(`${source}: резкое падение количества ${previousCount} → ${count}`);
   }
 }
