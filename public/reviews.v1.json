@@ -1,6 +1,6 @@
 {
   "schema_version": "reviews.v1",
-  "generated_at": "2026-09-15T00:40:47.494Z",
+  "generated_at": "2026-09-16T04:57:34.429Z",
   "timezone": "Europe/Minsk",
   "sources": {
     "google": {
@@ -22,23 +22,23 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_75077ff97181d5b8ea946c9da95f3c12dc51d5d8513918ebfd62389e266f24d9",
+      "source_review_id": "fp_cb518672c1f4af52999e1d5df769b50d0e9bc45a110ec625adc353e3b0087cc4",
       "author": {
         "name": "Дарья А.",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/2dxncc5zh511x8c04qxxvfnpdw"
       },
       "rating": 5,
-      "text": "Благодарю менеджера Елену за подбор тура во Вьетнам. Ответила на все волнующие вопросы и помогла выбрать отличный вариант в пределах бюджета. Отдыхали в Камрани в отеле Amiana Resort 7 ночей. Нам всё очень понравилось! Особенно остались в восторге от территории отеля и природы 🙏🏻 Будем обращаться к вам ещё)",
+      "text": "Благодарю менеджера Елену за подбор тура во Вьетнам. Ответила на все волнующие вопросы и помогла выбрать отличный вариант в пределах бюджета.…",
       "published_at_text": "31 августа",
       "published_at": "2026-08-31",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
-      "content_hash": "82de22b8412588644934ecc7b21b3e1544e8ab6b6740169563e630a4cbdb7a2e"
+      "content_hash": "bbaa01e66a30e68cbedfe82593739efe4f44e59a6cb5af57f0c3313c0b43a1f8"
     },
     {
       "source": "yandex",
@@ -56,7 +56,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-31T00:27:15.388Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "aa55d982ecd7fadf635148de308d57170b1d99b8f406868294baef420798f176"
@@ -77,7 +77,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "76e6c8208498d89b4eea5579a8a9600c6acd0af2b02867335ed890ea9539d817"
@@ -98,7 +98,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "bd5101d5917c98e3ee2c01df85a80f4b586c7eaff151e45cf1ec674d812bed04"
@@ -119,7 +119,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "389755f5634e63b8ee732e3fd436c8a7dacb89bd366383f7681b76fc5c7dca84"
@@ -140,7 +140,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "a5d77d70efef7416530145482e31e52115af34c837a21efd09d01046dffca88f"
@@ -161,7 +161,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "cc2de678a066076754a23c9da42d6d2a1662493f660714d22b120f26592a67a6"
@@ -182,7 +182,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "65aa543f3654492442f1a4adf135fc4121e2442b97aafae7b21797df2daaafaf"
@@ -203,7 +203,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "dbbcd5df8190acb91188f80f3ccd61366b170dab587e69e9462f10adc0f41d28"
@@ -224,7 +224,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "ba46dc5219ad65bbd2437160e2307b99008a16c865d6ee28f4af771ff524cec0"
@@ -245,7 +245,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "c9653888c769f6d74e6a5d90d187fadc9e6f0bd8d7ba144c4a53697cca9ab622"
@@ -266,7 +266,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "766196133db62bf637ac615bb3271cbeb485dd445a336d294bd56f46195a0851"
@@ -287,7 +287,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "f7c367614cc72e190f39c65b51137d77b56e194b0005a8124323b05e40faee40"
@@ -308,7 +308,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "f75773edce5b35ec50bd4f32115110a1743ee79b65beaed83ad8bf61c3fcbbe5"
@@ -329,7 +329,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -383,13 +383,13 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
-          "id": "865504618899a8ba7261ad40",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/865504618899a8ba7261ad40.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/865504618899a8ba7261ad40.webp",
+          "id": "29560ae55850fa939165958b",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/29560ae55850fa939165958b.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/29560ae55850fa939165958b.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
@@ -403,23 +403,23 @@
           "mime_type": "image/webp"
         },
         {
-          "id": "4b05cbcfa06090d80ad25c62",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/4b05cbcfa06090d80ad25c62.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/4b05cbcfa06090d80ad25c62.webp",
+          "id": "d963dd2721d2cc4a3ed96516",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/d963dd2721d2cc4a3ed96516.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/d963dd2721d2cc4a3ed96516.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
         },
         {
-          "id": "d00d531d0a1d4067318e704c",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/d00d531d0a1d4067318e704c.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/d00d531d0a1d4067318e704c.webp",
+          "id": "09b09c77070178aae9e71d40",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/09b09c77070178aae9e71d40.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/09b09c77070178aae9e71d40.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "df4d569fe28717a8d757b3d06cd71b5f07ed87f8ceaaa1bfdf968c5d4cdc23b7"
+      "content_hash": "17d8be21d47b848b2e1f24e374bcad377048404e9efeddb203235db1fffcb3cc"
     },
     {
       "source": "google",
@@ -437,7 +437,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "e5386dc3c9dbe8a77b551ce27488d6df270765e8ddc0b7262549c6e63efd7ac1"
@@ -458,7 +458,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "bc7b232a31c93ae5f569f62fce47c8e87e9d02962b9e361e4e1a90544c19366d"
@@ -479,7 +479,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "b9f3d8b67c9dccf26ed4bbde488d187107bfd42adfa3608e30ca1e4f29f753e6"
@@ -500,7 +500,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -520,15 +520,15 @@
           "mime_type": "image/webp"
         },
         {
-          "id": "7178b313ed2dcbddf23b3670",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/7178b313ed2dcbddf23b3670.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/7178b313ed2dcbddf23b3670.webp",
+          "id": "4e4459dec06a4e73070b0130",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/4e4459dec06a4e73070b0130.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/4e4459dec06a4e73070b0130.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "ad99ba5f578eaf3bc4ce0129409c4c25fef47a6af6273f8fe59558fb9ee5d7c0"
+      "content_hash": "bac054c44f2174ec302d3d6dc41a84d78b0c54737bc6ecc965a1f29a7d0feae4"
     },
     {
       "source": "google",
@@ -546,7 +546,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -558,9 +558,9 @@
           "mime_type": "image/webp"
         },
         {
-          "id": "be8bb6527a8b9f51efb3a791",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/be8bb6527a8b9f51efb3a791.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/be8bb6527a8b9f51efb3a791.webp",
+          "id": "acdcfe982fffc48f9b4c1878",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/acdcfe982fffc48f9b4c1878.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/acdcfe982fffc48f9b4c1878.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
@@ -574,7 +574,7 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "099f68c11b6caf9af8f91265ef7e203acf06c8f645db2bffd72fcd950872aede"
+      "content_hash": "29e45de638d269a8c62060b135d0cf3d553373141a76f315626345ef101045d9"
     },
     {
       "source": "google",
@@ -592,7 +592,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "cbddc91f3d69f0bea308bb6db75963f3bf0cd1622537393560676ee583180463"
@@ -603,7 +603,7 @@
       "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toamFVNXlVRWhCVkc5WVdHUjBTbVYyYURacU9HYxAB",
       "author": {
         "name": "Бондарович Наталья",
-        "avatar_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/avatars/58c687536f972400983a847d.webp",
+        "avatar_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/avatars/ca877e947ce54dd5369cd9ca.webp",
         "profile_url": "https://www.google.com/maps/contrib/105470181254581808642/reviews?hl=ru"
       },
       "rating": 5,
@@ -613,7 +613,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "76deea158757c9d0f3ccce3845883187b15b8aefc6236ff8002ac6810c4c084c"
@@ -634,7 +634,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -680,13 +680,13 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
-          "id": "c361a4e48dd22d4899969ed1",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/c361a4e48dd22d4899969ed1.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/c361a4e48dd22d4899969ed1.webp",
+          "id": "6dd6e380bf2b73a9a9bc729e",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/6dd6e380bf2b73a9a9bc729e.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/6dd6e380bf2b73a9a9bc729e.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
@@ -708,15 +708,15 @@
           "mime_type": "image/webp"
         },
         {
-          "id": "35d6e2e62ca0a64e2070047b",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/35d6e2e62ca0a64e2070047b.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/35d6e2e62ca0a64e2070047b.webp",
+          "id": "a43311879e86f80d1ebe703d",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/a43311879e86f80d1ebe703d.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/a43311879e86f80d1ebe703d.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "3741004aeb2f82ecb49c905c7084b82bf79628144b009fc1b71e1fcce9eda527"
+      "content_hash": "cc075f648149777fe7370a018fedd6e67cab63313218aa1303f81ae3e1f78ab5"
     },
     {
       "source": "google",
@@ -734,7 +734,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "f0f127253efce50ee5c52e7a8fe2cca0a0f2ba722f3ec64050af43b6353f1fdb"
@@ -755,7 +755,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "3121e2bfa6130400ceaa774cf244d398e5d9380143a0bcddddcdd56deb39df61"
@@ -776,7 +776,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "ac1e24618155042f29a331e53b06f90c637cce385b77b0b50d816b3c94361b58"
@@ -787,7 +787,7 @@
       "source_review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSlMzUkxXbFV4VGpkVlgwMW1kMnRKTWpaT1dYYxAB",
       "author": {
         "name": "Vitali Krasouski",
-        "avatar_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/avatars/5658eeaba7db319d51b1af79.webp",
+        "avatar_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/avatars/7dcc4469079e42c69f872d1c.webp",
         "profile_url": "https://www.google.com/maps/contrib/116446213451339053643/reviews?hl=ru"
       },
       "rating": 5,
@@ -797,7 +797,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "89031d778cc43b384c4039ea6c19b9b33ccd2de942d4ee421e50efc9c131c587"
@@ -818,7 +818,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "683d384f101a4388ec92d5e19849cb5967b40500d26029246098fcb3ddaae89a"
@@ -839,7 +839,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "c9cb30bb22e94e942cfa499fb78a091bbe7216b247d55c02f6b221c0007ac4e4"
@@ -860,7 +860,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -906,7 +906,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "86a775ede8e2f5f44b6b16a2da3dc2db90bbd66038d23952acf6da41dae32e66"
@@ -914,41 +914,20 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_14ad9c9c9c13a66eb802b07ac6c330c43c495c94a7fe49f140bbe1f97f4de5fe",
-      "author": {
-        "name": "Екатерина Кузьменок",
-        "avatar_url": null,
-        "profile_url": null
-      },
-      "rating": 5,
-      "text": "Обратилась за подбором тура к менеджеру Елене. И с этого момента случился полный мэтч с менеджером. У меня не получалось определиться с направлением отдыха, но Елена настолько профессионально, качественно, тактично, с разъяснением многих вопросов от меня, проконсультировала, что я осталась в восторге! Очень бережное и внимательное отношение к своим клиентам в Лофт Трэвел. Рекомендую!",
-      "published_at_text": "6 июля",
-      "published_at": "2026-07-06",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "907601c10703100e8a58f1ecb07a68d1bbbdaebdd203c5f9fd5aa7aa03eb880c"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
-      "source_review_id": "fp_2bbbd6badee4f38e99cd7769687ea6e4d7cf08d4fdfd9cbf4723503d251cd7d9",
+      "source_review_id": "fp_99940ab670d747b4e267b47d4c54f3c4294efac219cf15d648b775d1be0f7799",
       "author": {
         "name": "Вероника Щуцкая",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/yfxutczre9dbxyrxnde9pawd5c"
       },
       "rating": 5,
-      "text": "Огромное спасибо команде турагентства LoftTravel за очередной наш незабываемый отдых. Мы с вами уже наверное третий год работаем и ни разу я не пожалела,что когда-то обратилась именно к Вам ❤️! Это настоящие профессионалы своего дела: подскажут, расскажут, опишут…",
+      "text": "Огромное спасибо команде турагентства LoftTravel за очередной наш незабываемый отдых. Мы с вами уже наверное третий год работаем и ни разу я не пожалела,что когда-то обратилась именно к Вам ❤️! Это настоящие профессионалы своего дела: подскажут, расскажут, опишут и покажут🌅🏖️☀️. Особая благодарность менеджеру Елене за чуткость и внимание к нашим пожеланиям, за оперативность и коммуникабельность 🌷. Обязательно вернёмся за следующим туром😉. Рекомендую всем, кто ценит свое время и нервы. 10 из 10!🔥🔥🔥",
       "published_at_text": "6 июля",
       "published_at": "2026-07-06",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -984,25 +963,88 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "c3af55d97beac5e693195e6646780ad11de3f04ce90b0cab1a81fb4f5a4763cd"
+      "content_hash": "db550dfe9f922019a6033be69151f0f6a2306b79286d7e648e10493950f8c340"
     },
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_0f263f73d2c9f166947b6ef49ef53f01bbba06198975a44e749aca481adff105",
+      "source_review_id": "fp_e02cc557eb00b7b42f4c3290fd7a866272c0aceb19c9028988f02aae51f53981",
+      "author": {
+        "name": "Екатерина Кузьменок",
+        "avatar_url": null,
+        "profile_url": null
+      },
+      "rating": 5,
+      "text": "Обратилась за подбором тура к менеджеру Елене. И с этого момента случился полный мэтч с менеджером. У меня не получалось определиться с направлением отдыха, но Елена настолько профессионально, качественно, тактично, с разъяснением многих вопросов от меня,…",
+      "published_at_text": "6 июля",
+      "published_at": "2026-07-06",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "3817193bb8dbc2cc83898ce554435f11577f9e50b97cb9e2c50a047b8d9678c2"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_4e1381a0cda985b40aac2b99521b0fc67239bebac56c329ea6446f86ec166766",
+      "author": {
+        "name": "Света",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/nnj27anjw76j5e2v6yk7g3rfqm"
+      },
+      "rating": 5,
+      "text": "Отличное агентство, летали с ними в ОАЭ. Опыт наипрекраснейший - все пожелания были учтены, агент отвечала на все вопросы, была с если на связи на всех этапах. Другие путешествия- только с ними ❤️",
+      "published_at_text": "5 июля",
+      "published_at": "2026-07-05",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "fc1ca1d55bfd602bf8dd71fd94a7453b5f395507f0f1547a158d02af6e88e135"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_738815c14371b85ab6f0b79bcd99b772da2705ac4bfef077bcf57da63af54048",
+      "author": {
+        "name": "Наталья Д",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/kz1e9pfgpj2u6aqxt503b35xa8"
+      },
+      "rating": 5,
+      "text": "Ездим с Лофт трэвел уже не первый раз. Все четко, туры подбирают под запрос туристов с учётом всех хотелок, отели проверенные, менеджеры знающие свою работу. А Инстаграм как ведут)) Очень полезный контент там. В общем мои искренние рекомендации Лофт трэвел",
+      "published_at_text": "6 июля",
+      "published_at": "2026-07-05",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "b4bee760db1c4689f61c0e1cf4946a5d0c17068e742b729a9ecfa8c132459806"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_dc0df3b84fda1d81157044c533f31e5d6d2eb6355c9aae14e2d1664348c11102",
       "author": {
         "name": "Anastasya Pogrebnyak",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/14ary70jau115c2dwkezmzm450"
       },
       "rating": 5,
-      "text": "Очередной раз спасибо вам за организацию отдыха. Без нюансов, без проблем и с самым классным настроением мы отдыхали. Китай, март 2026. Отель 4seasons и SwissOtel с организацией индивидуального трансфера. Ирина чувствует клиента, задает правильные вопросы и подбирает тот отдых, о котором ты мечтаешь 😍 Отдыхом довольны на 1000 % Спасибо вам огромное ♥️",
+      "text": "Очередной раз спасибо вам за организацию отдыха. Без нюансов, без проблем и с самым классным настроением мы отдыхали. Китай, март 2026…",
       "published_at_text": "5 июля",
       "published_at": "2026-07-05",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1038,49 +1080,7 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "fc91e6283eefcad4f31a876f742e9d2305177f96e7980af6a408c85ccddb1f22"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
-      "source_review_id": "fp_4e1381a0cda985b40aac2b99521b0fc67239bebac56c329ea6446f86ec166766",
-      "author": {
-        "name": "Света",
-        "avatar_url": null,
-        "profile_url": "https://yandex.by/maps/user/nnj27anjw76j5e2v6yk7g3rfqm"
-      },
-      "rating": 5,
-      "text": "Отличное агентство, летали с ними в ОАЭ. Опыт наипрекраснейший - все пожелания были учтены, агент отвечала на все вопросы, была с если на связи на всех этапах. Другие путешествия- только с ними ❤️",
-      "published_at_text": "5 июля",
-      "published_at": "2026-07-05",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "fc1ca1d55bfd602bf8dd71fd94a7453b5f395507f0f1547a158d02af6e88e135"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
-      "source_review_id": "fp_738815c14371b85ab6f0b79bcd99b772da2705ac4bfef077bcf57da63af54048",
-      "author": {
-        "name": "Наталья Д",
-        "avatar_url": null,
-        "profile_url": "https://yandex.by/maps/user/kz1e9pfgpj2u6aqxt503b35xa8"
-      },
-      "rating": 5,
-      "text": "Ездим с Лофт трэвел уже не первый раз. Все четко, туры подбирают под запрос туристов с учётом всех хотелок, отели проверенные, менеджеры знающие свою работу. А Инстаграм как ведут)) Очень полезный контент там. В общем мои искренние рекомендации Лофт трэвел",
-      "published_at_text": "6 июля",
-      "published_at": "2026-07-05",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "b4bee760db1c4689f61c0e1cf4946a5d0c17068e742b729a9ecfa8c132459806"
+      "content_hash": "37e0a0cf031e4ae937a97980d8b9feaefd7f16890c4590a424d8822ed3d5ab57"
     },
     {
       "source": "yandex",
@@ -1098,7 +1098,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "5f07158d80e2f7f6a7addd1ff7a5c3565c9d6b4107b5215da136d4e26a9e454c"
@@ -1119,7 +1119,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "47efb3cbe04b0750d55054c866017772d75d314346a5c5a51d69faa746690445"
@@ -1140,7 +1140,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1178,7 +1178,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-12T00:37:51.623Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "590fa04f559a345ef6b77f74781a3b02e8d925a13a24e19251152142701b9809"
@@ -1199,7 +1199,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1245,7 +1245,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-02T00:39:21.959Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "357b028d8c9d955bed56deb1588617454dc16e5558694931769e8c506158c528"
@@ -1266,7 +1266,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1307,20 +1307,41 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_88ddfe3bb8d6e47823d38e452eee5d0faddf264d1b01441c3b32ef2c34707b85",
+      "source_review_id": "fp_4a71575e7cbee8290fc06f4ae3c16f8719d911a74c9c88411199aa4981ae665a",
+      "author": {
+        "name": "zhyzhella23",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/74eckh56vv0rzt20czvcxjd3n0"
+      },
+      "rating": 5,
+      "text": "Здравствуйте!!! Второй раз уже летаем с этим турагенством и оба раза отдых на высоте. Подбирают тур чётко по желанию. Отвечают на все вопросы в любое время. Находятся всегда на связи и готовы помочь в любой ситуации. Лофт тревел - вы лучшие!!! Особая благодарность Ирине…",
+      "published_at_text": "22 июня",
+      "published_at": "2026-06-22",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "af1e9b40dc50b762a2cf0c8d95c6d4aabe8408da1b39af3f61547aec4419a57e"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_61b2e42e39e4470b8785d5d48868f61de563ba0223b7d7142f4bb40a24366db6",
       "author": {
         "name": "Катерина Егорова",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/j24qxmqxjdpxjhd13xw4hm90mc"
       },
       "rating": 5,
-      "text": "Летала на Шри-Ланку через Лофт Трэвел. Помогли с выбором размещения с учетом запроса, а это очень важно. В итоге океан через дорогу, фруктовая лавка за углом и, конечно, ланкийский красный ром🤩 Особенно порадовало сопровождение с момента запроса и до…",
+      "text": "Летала на Шри-Ланку через Лофт Трэвел. Помогли с выбором размещения с учетом запроса, а это очень важно. В итоге океан через дорогу, фруктовая лавка за углом и, конечно, ланкийский красный ром🤩 Особенно порадовало сопровождение с момента запроса и до возвращения. И на электронную визу продиктовали как заполнить, чтобы в аэропорту на месте дороже не платить. Благодарю за нашу ланкийскую сказку🤗",
       "published_at_text": "22 июня",
       "published_at": "2026-06-22",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1348,28 +1369,7 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "ef0c0bd561bf331773681380278b5f77dd398a5e32993d334bc5539eef5675fd"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
-      "source_review_id": "fp_8e1a2cf2a0f85de87591ca62eb4747ec178fcf1d6e57096f1a9303ff8e51d0fe",
-      "author": {
-        "name": "zhyzhella23",
-        "avatar_url": null,
-        "profile_url": "https://yandex.by/maps/user/74eckh56vv0rzt20czvcxjd3n0"
-      },
-      "rating": 5,
-      "text": "Здравствуйте!!! Второй раз уже летаем с этим турагенством и оба раза отдых на высоте. Подбирают тур чётко по желанию. Отвечают на все вопросы в любое время. Находятся всегда на связи и готовы помочь в любой ситуации. Лофт тревел - вы лучшие!!! Особая благодарность Ирине, которая помогла уже дважды выбрать нам тур!!! Однозначно рекомендуем!!!",
-      "published_at_text": "22 июня",
-      "published_at": "2026-06-22",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "a022d8a7c93fdcc4b0af5934309905538258b7de8b4c8c18a8a57b62d72964bb"
+      "content_hash": "c388616d685f8f5c85edd8d4f30fae7f6ea7ce8d23566f5f2496c7cbdbb96733"
     },
     {
       "source": "yandex",
@@ -1387,7 +1387,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-08T00:42:50.107Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1433,7 +1433,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1471,10 +1471,31 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "80a7249033cb5bef8073a2ab719e6f354c06ec404233a1f30c3c016e55529197"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_03bf6faa9e5f67474dec230c435368206bf121b4c013a5265a0da5b7b446db0c",
+      "author": {
+        "name": "Екатерина К.",
+        "avatar_url": null,
+        "profile_url": null
+      },
+      "rating": 5,
+      "text": "Не первый год путешествуем с Лофт Трэвел. И каждый раз организация отдыха просто выше всех похвал. Порой кажется, что удовлетворить все наши пожелания невозможно, но Ирина и Елена справляются с этим на ура. Девочки всегда подбирают именно то, что нужно для идеального отпуска. С ними чувствуешь себя в полной безопасности, ведь они на связи в любое время суток.",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "85d888a154e4f1d1f00391a4ea6ea8cd2a80bc4599a955370a1e54b7f60f5e82"
     },
     {
       "source": "yandex",
@@ -1492,7 +1513,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1525,48 +1546,6 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_086dac3f16975c9faa95f808636837e6fef28e13e3cc6f8026a52886a5ff871c",
-      "author": {
-        "name": "Елена Бондаровец",
-        "avatar_url": null,
-        "profile_url": "https://yandex.by/maps/user/n455c5xe7q2gg49f70yquzn030"
-      },
-      "rating": 5,
-      "text": "Турагентств и турагентов много, а таких замечательный профессионалов очень мало! Второй раз с мужем бронируем тур именно здесь. Всегда подробно и грамотно проконсультируют, предложат лучшее и расскажут все как есть. Отдельное спасибо Елене…",
-      "published_at_text": "18 июня",
-      "published_at": "2026-06-18",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "4979a48603202065759640546049fcb7e10b10e5cd8ded40cf34e206369f9979"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
-      "source_review_id": "fp_1f1f3fb55beccd88277ea37c68f327a8198c5adaf300adf5899a480277522b1b",
-      "author": {
-        "name": "Виктория Демидова",
-        "avatar_url": null,
-        "profile_url": "https://yandex.by/maps/user/a9a6rdr9wk8pbx3j3ar7gbjgbw"
-      },
-      "rating": 5,
-      "text": "Очень рада что попала именно в это агентство.Посещала еще несколько мест,но это в самое сердечко.Мой турагент-это Елена.Профессионал своего дела.Вся информация доносится четко,понятно.Досконально объясняет нюансы поездки,всегда на связи,укомплектовывает путешествие так,что остается только собрать чемодан.Учитывает все пожелания и подбирает тур исходя из вашего бюджета. Весь коллектив приветливый,дружелюбный,помогают советами если это необходимо. Довольна что ездила отдыхать именно через Лофт Тревел.Обязательно обращусь еще,потому что они классные!",
-      "published_at_text": "18 июня",
-      "published_at": "2026-06-18",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "7267813b69ae23ec2618f6d291ea60d3e75a0e745b691978b1e8d40fab0c7aa0"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
       "source_review_id": "fp_5c388129c90d715a7c8aa06869258b7b21382be15fcd4dbcec2779b0a8c71520",
       "author": {
         "name": "Дарья Сказова",
@@ -1580,10 +1559,31 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "19acc9eae76b1cddcbabd6d2ae7413cf514363d56851b1e5eb98be8592ff3ef7"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_6740aa9dcb2c8356416fd84d28a501523be6c2fe9aa82fce466ab79cfaa9b7eb",
+      "author": {
+        "name": "Виктория Демидова",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/a9a6rdr9wk8pbx3j3ar7gbjgbw"
+      },
+      "rating": 5,
+      "text": "Очень рада что попала именно в это агентство.Посещала еще несколько мест,но это в самое сердечко.Мой турагент-это Елена.Профессионал своего дела.Вся информация доносится четко,понятно.Досконально объясняет нюансы поездки,всегда на связи,укомплектовывает…",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "cf4d08160a513b264bcad09aaedcd1f8c4afdb27f86095aa3a0a85a62511c08e"
     },
     {
       "source": "yandex",
@@ -1601,7 +1601,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "c8755ec254ffbd3f6d0dd561d1e14fa877e3159db12f086b2cb5244cc7d4f540"
@@ -1622,31 +1622,10 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "06251cccffe9cc6e078f3359e7568d378490290a9ca4bcef527a1b0ceee1b965"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
-      "source_review_id": "fp_921387150019ff8ca6f924f3ebf72624dfa7e1f0133e9475c3ed3e91849fe4b3",
-      "author": {
-        "name": "елена мальцева",
-        "avatar_url": null,
-        "profile_url": "https://yandex.by/maps/user/b639w25qj9nuyzv2grzkt718kr"
-      },
-      "rating": 5,
-      "text": "Оформила в этом году поездку с девочками из этой фирмы. Все чётко, конкретно, по делу. Я пришла уже почти с выбранным отелем, но мне всеравно были предложены другие варианты. Чётко озвучены возможные минусы и плюсы. Что для меня было важно, учитывая…",
-      "published_at_text": "18 июня",
-      "published_at": "2026-06-18",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "ab66ccfeb935c85bd9147b1a2168828ba2ff1a3573b155d409cce00afdb9c64a"
     },
     {
       "source": "yandex",
@@ -1664,7 +1643,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "922fee8cf81cb734930cd5257e0b9031dc362d1a87688aef30debb9858e0e109"
@@ -1685,7 +1664,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "ce6d2c493ca1658de7c6229bfae0c7266b9c6ece71bbf2966f88e6125d6452a9"
@@ -1693,20 +1672,41 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_da740b5e2af526d971fc88ddf63a038aebfe6067152e375143a8c3b5bc64ae58",
+      "source_review_id": "fp_c45c93137d3bbfc99b9b4455f9a749ddaeec019d25527f76a985c4d5afbfe124",
+      "author": {
+        "name": "Елена Бондаровец",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/n455c5xe7q2gg49f70yquzn030"
+      },
+      "rating": 5,
+      "text": "Турагентств и турагентов много, а таких замечательный профессионалов очень мало! Второй раз с мужем бронируем тур именно здесь. Всегда подробно и грамотно проконсультируют, предложат лучшее и расскажут все как есть. Отдельное спасибо Елене 🫶 И в целом всему коллективу. Очень чувствуется любовь к своему делу и клиентам !",
+      "published_at_text": "18 июня",
+      "published_at": "2026-06-18",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "9f5b45080a3a030a4550863bf3263c0c66913635654029fa1d6e7245c4568a8b"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_d732ba04634c9d0cc653552fd796b0666202081d6ed671c6e254078c7a24a0e2",
       "author": {
         "name": "ангелина запеко",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/hdxbk3x052av1xrf8zacy0f60r"
       },
       "rating": 5,
-      "text": "Хочу выразить благодарность агентству Loft travel и лично менеджеру Виктории за наш отдых в Турции. Виктория подобрала тур с учетом всех наших пожеланий, всегда была на связи и отвечала на множество вопросов, все документы были подготовлены вовремя. А…",
+      "text": "Хочу выразить благодарность агентству Loft travel и лично менеджеру Виктории за наш отдых в Турции. Виктория подобрала тур с учетом всех наших пожеланий, всегда была на связи и отвечала на множество вопросов, все документы были подготовлены вовремя. А развлекательные наборы в самолет для маленьких путешественников- это отдельная забота. Если вы ищите тур агенство с которым можно быть спокойным, то вам сюда.",
       "published_at_text": "18 июня",
       "published_at": "2026-06-18",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1734,28 +1734,28 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "645d74ef1c43847e777fc4d007ba9faf155cbd6f56d804bdbfccbb97208f4325"
+      "content_hash": "9cbf62db384e744d5c3f42b5d718b1436f4c78bebf9d1fbdcd0a5f88fe04dc9e"
     },
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_df54899fc4bc03535891a7a3c68559e8431307488f917063c07a23d4863a1337",
+      "source_review_id": "fp_e9fca69217a7ec309d167a165f20fb3a72ed0d0d9135f55ff3838f583b3abcbe",
       "author": {
-        "name": "Екатерина К.",
+        "name": "елена мальцева",
         "avatar_url": null,
-        "profile_url": null
+        "profile_url": "https://yandex.by/maps/user/b639w25qj9nuyzv2grzkt718kr"
       },
       "rating": 5,
-      "text": "Не первый год путешествуем с Лофт Трэвел. И каждый раз организация отдыха просто выше всех похвал. Порой кажется, что удовлетворить все наши пожелания невозможно, но Ирина и Елена справляются с этим на ура. Девочки всегда подбирают именно то, что нужно для идеального…",
+      "text": "Оформила в этом году поездку с девочками из этой фирмы. Все чётко, конкретно, по делу. Я пришла уже почти с выбранным отелем, но мне всеравно были предложены другие варианты. Чётко озвучены возможные минусы и плюсы. Что для меня было важно, учитывая негативный опыт, чтобы документы были оформлены правильно без ошибок, я хочу улететь тогда когда хочу, так вот здесь я ушла с уверенностью и спокойствием. Более того , агентство не пропало до вылета, напоминают о важных моментах в мессенджерах, меня действительно сопровождают. Очень приятно.",
       "published_at_text": "18 июня",
       "published_at": "2026-06-18",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
-      "content_hash": "25666ddf9ccbc31e11a703b71222b9c709cea8f17f69599db054569214ab9829"
+      "content_hash": "b15f5b2b881678822b519aef86deaf979ccf2e9d3e04006461e0500ab05caa02"
     },
     {
       "source": "yandex",
@@ -1773,7 +1773,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1827,7 +1827,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "8381e0a16e435af9ae592ab2a50895de57ce037d9de6aba5d84b7384bc9faa5a"
@@ -1848,7 +1848,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "87747dabd46614a7a685a35c2d998cf8aaa45e35f5468c0e048574d928486b5f"
@@ -1869,7 +1869,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "e95cc11fe4d9f5b8e6d57dabbe1bb988201f5699d41456530e4a0a8555e57794"
@@ -1890,7 +1890,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "6e22be4298809f5e18f05914346b029ac565e8a8c60c74701c89482ba4e1cace"
@@ -1911,7 +1911,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-02T00:39:21.959Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "dc5055439281fa536b9e56e6be32158d730bca528c20bd63778baf1a07e90320"
@@ -1919,41 +1919,20 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_79bc4960db2335f0cb10fa2a2e4a6246c0d804714fff1f3b7ee20ec5bf8013b2",
-      "author": {
-        "name": "Ольга Сетько",
-        "avatar_url": null,
-        "profile_url": "https://yandex.by/maps/user/amhhr12523gcf04tnyrvjku8xg"
-      },
-      "rating": 5,
-      "text": "Отдыхаем с эти великолепным агенством во второй раз. Очень довольны качеством отдыха. Отдельное спасибо Екатерине за помощь в подборе тура. Учли все наши пожелания.",
-      "published_at_text": "17 июня",
-      "published_at": "2026-06-17",
-      "published_at_is_approximate": false,
-      "date_precision": "exact",
-      "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
-      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
-      "photos": [],
-      "content_hash": "d2446fed01fdc0c44cd282ac1022372c3cfae6311c1cd9099093a64d8a50259d"
-    },
-    {
-      "source": "yandex",
-      "source_place_id": "160356850970",
-      "source_review_id": "fp_90abbaa209bd9bc0509416da523dbdfaaeae646dec184bcafb3e32e2751e42a8",
+      "source_review_id": "fp_6764b85a5946876a14a31560288ff2a104dbee3f9f1157bdf955722163cf866d",
       "author": {
         "name": "Vitali Krasouski",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/bhg9fxhrp2wqe7vc8pda06n5c4"
       },
       "rating": 5,
-      "text": "Лофт Трэвел — вы лучшие! 😍 Сначала подписался на их Instagram и просто кайфовал от контента: всё очень стильно, информативно, без лишней воды и с классным визуалом. Сразу видно, что команда горит своим делом. ​Когда дело дошло до бронирования, я окончательно влюбился в это агентство. Клиентоориентированность просто топ! Такого внимательного отношения к деталям и моим пожеланиям я давно не встречал. Менеджеры невероятно чуткие, вежливые и терпеливые, ведут тебя за ручку от начала и до конца поездки. Сервис превзошёл все ожидания. Спасибо за крутой отпуск, теперь я ваш постоянный клиент! Настоящие профессионалы! 🚀",
+      "text": "Лофт Трэвел — вы лучшие! 😍 Сначала подписался на их Instagram и просто кайфовал от контента: всё очень стильно, информативно, без лишней воды и с классным визуалом. Сразу видно, что команда горит своим делом…",
       "published_at_text": "17 июня",
       "published_at": "2026-06-17",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -1973,7 +1952,28 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "cefb7c57769c1d27b13bb364508a9dbb1e96b31f48d21db45ca025ecab3fa205"
+      "content_hash": "d84b56f4a5e468dcba7e8e8b9d478a411b0b7234195bb6f53a64cfc2fd626326"
+    },
+    {
+      "source": "yandex",
+      "source_place_id": "160356850970",
+      "source_review_id": "fp_79bc4960db2335f0cb10fa2a2e4a6246c0d804714fff1f3b7ee20ec5bf8013b2",
+      "author": {
+        "name": "Ольга Сетько",
+        "avatar_url": null,
+        "profile_url": "https://yandex.by/maps/user/amhhr12523gcf04tnyrvjku8xg"
+      },
+      "rating": 5,
+      "text": "Отдыхаем с эти великолепным агенством во второй раз. Очень довольны качеством отдыха. Отдельное спасибо Екатерине за помощь в подборе тура. Учли все наши пожелания.",
+      "published_at_text": "17 июня",
+      "published_at": "2026-06-17",
+      "published_at_is_approximate": false,
+      "date_precision": "exact",
+      "first_seen_at": "2026-08-15T16:59:30.205Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
+      "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
+      "photos": [],
+      "content_hash": "d2446fed01fdc0c44cd282ac1022372c3cfae6311c1cd9099093a64d8a50259d"
     },
     {
       "source": "yandex",
@@ -1991,7 +1991,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "c2d0d42da251a47b2624fd6661860b4847f18922c570a6fb9e3b70ffee701c75"
@@ -2012,7 +2012,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -2042,7 +2042,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "2f3cae7be70c012c769f1413ddd66a65099ca4f53847fbe9acf885d8b7329439"
@@ -2063,7 +2063,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -2101,7 +2101,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "7db976059a2b177b40bcb6a406139b0e739f4843cb9a5bb86f39348e9f84ba0b"
@@ -2122,7 +2122,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-08T00:42:50.107Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -2176,7 +2176,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "2903bdadca9d5a8fb8739d7a75c61f2b1cea5637f08d7e207029d9f62d74cc3c"
@@ -2197,7 +2197,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "fa85958381e30c0e4baf66681bff6664a7c523a22c9d001a1e744e80533f8580"
@@ -2218,7 +2218,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "406ca9379f8e8dd43f37ea8820abe6db38d1de8c0b583f19b874833d60834daf"
@@ -2226,20 +2226,20 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_5b0ffeafb37b1fbbb1fdd6f62b101db50444a38f24ace675020df92862ba6689",
+      "source_review_id": "fp_2a6ad00dcdd9c82b24f04d272132d5799b3fe88edde80662cdc7ff05a6140aef",
       "author": {
         "name": "Елена Гутман",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/8z07hu1xryaed92ghx9qx3m3dw"
       },
       "rating": 5,
-      "text": "Искренне благодарю Лофт Трэвел в лице Слабухо Ирины за профессиональную работу, за отличную организацию, поддержку и внимательное отношение. С легкой руки Ирины мы отдыхаем уже много лет по разным направлениям. И всегда я уверена, что в любой ситуации…",
+      "text": "Искренне благодарю Лофт Трэвел в лице Слабухо Ирины за профессиональную работу, за отличную организацию, поддержку и внимательное отношение. С легкой руки Ирины мы отдыхаем уже много лет по разным направлениям. И всегда я уверена, что в любой ситуации она будет рядом, и не смотря на форсмажор, как турагент будет на моей стороне. В наше время это дорогого стоит!!! От души желаю компании и вам лично процветания, финансового благополучия и благодарных клиентов!❤️",
       "published_at_text": "6 февраля",
       "published_at": "2026-02-06",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -2275,7 +2275,7 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "e4f08aec1b30224e138c3f8f5e278e2bd1cf02f9b60fd592e13d19fe7d945d38"
+      "content_hash": "7766cb46091662702dadb46dce014cd2e60bf45fc3943a9e86e6063ab4661089"
     },
     {
       "source": "yandex",
@@ -2293,7 +2293,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "805c8d4cfa2500f2c185c7733d5a2d4ac67b53e51310d71d59ced5134d39c6b8"
@@ -2314,7 +2314,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-08T00:42:50.107Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "f619e02584d763f23d3b07d940a26d8484b462bb25258f81c25a7f1e6ccdef17"
@@ -2322,20 +2322,20 @@
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_e7f293712f614c9522c635da26a5fbef7a19ebf53c92f0d441edfef05b4f48f4",
+      "source_review_id": "fp_22bb509f78bdbf2f5b2714247c3e22ec46993731e066d448ff56186201ab89fb",
       "author": {
         "name": "Аня",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/pfawf7xrcnhqgh1pm9f7b224g4"
       },
       "rating": 5,
-      "text": "Хочу поблагодарить девушек из Лофт трэвел за + 2 страны в копилку моих воспоминаний. Дважды летала отдыхать благодаря им, учитывали все пожелания (их было немало, и так уж вышло, что постоянно менялись - мы меняли направление отдыха, город вылета, продолжительность и даже состав) - все это с максимально дружелюбным отношением и невероятным терпением. Мы были на связи до, во время и после отдыха буквально 24/7. Еще раз большое спасибо!",
+      "text": "Хочу поблагодарить девушек из Лофт трэвел за + 2 страны в копилку моих воспоминаний. Дважды летала отдыхать благодаря им, учитывали все пожелания (их было немало, и так уж вышло, что постоянно менялись - мы меняли направление отдыха, город вылета, продолжительность и даже…",
       "published_at_text": "15 января",
       "published_at": "2026-01-15",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -2363,7 +2363,7 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "7f25b202fbebfd36a24009b17cf7b3684804f4f4c85bb0c7c920bc747ca99ff2"
+      "content_hash": "942ecb603321316bbe933531eedd5ae37cb6ed4e2a2d4b3bb0e6526fdf286eee"
     },
     {
       "source": "yandex",
@@ -2381,7 +2381,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-04T00:42:22.687Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "6f410f17f3150858a36a72b40a172834d191549576b2b58512981b6647a752c3"
@@ -2402,13 +2402,13 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
-          "id": "705db39c639755726508dbef",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/705db39c639755726508dbef.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/705db39c639755726508dbef.webp",
+          "id": "d0656be07fe919de5a280797",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/d0656be07fe919de5a280797.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/d0656be07fe919de5a280797.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
@@ -2438,7 +2438,7 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "2d6dc32baaa5dc45ec4909842b03450e89c1d9b7f2961fe9f1596dcbb5ff84a1"
+      "content_hash": "b9569eea6224b937f1f97b6e0d63908083bcd0a175439f20633686b185d19535"
     },
     {
       "source": "google",
@@ -2456,7 +2456,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -2510,7 +2510,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "32c78b70665ef27a90ef5637fa5f6ad4cd40d4343ff081cbf9d96b1b83f06b91"
@@ -2531,7 +2531,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "7c0e8c534c66362ad8b24f8e63884cfb210e0ad12a00ef683308bac22d414e23"
@@ -2552,7 +2552,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "0bfe10d14eb9994011fa0c9b9e3aa129f6125e97a4d953fdfc4cd5e3a17993e2"
@@ -2573,7 +2573,7 @@
       "published_at_is_approximate": true,
       "date_precision": "month",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -2593,33 +2593,33 @@
           "mime_type": "image/webp"
         },
         {
-          "id": "0388c106391fad0287564cd5",
-          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/0388c106391fad0287564cd5.webp",
-          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/0388c106391fad0287564cd5.webp",
+          "id": "3d9dda90e83cf945947c7489",
+          "thumbnail_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/thumbnails/3d9dda90e83cf945947c7489.webp",
+          "popup_url": "https://raw.githubusercontent.com/lofttravel/lofttravel_rewies/main/public/media/popup/3d9dda90e83cf945947c7489.webp",
           "width": 1600,
           "height": 1600,
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "fa597fa79798cf1a733204143cccb741692caa1f974c206c155850bfe6005cca"
+      "content_hash": "bf67025f1a05aadd759e228940c0723fd869e47ebb62da97efba61e69f263773"
     },
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_4691cbb9a32c6a64f76a97ff663aed33e662adca27d4617867db77d6dd910f8f",
+      "source_review_id": "fp_46fbf0098d24dcb5f33ff5feeb2d3ffa5061ff11867767c9729c16063fcff689",
       "author": {
         "name": "Валентина К.",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/wa7vaw1p5u3etm5mv66xb9jw1g"
       },
       "rating": 5,
-      "text": "Отдыхаю с Лофт Трэвел уже 3й год. И каждый раз всё четко, по делу, согласно моему запросу. Благодарю менеджера Викторию Климович за помощь в выборе нашего февральского тура на Шри-Ланку. В ситуации, когда у нас случился овербукинг в отеле, она была на связи, помогала решить этот вопрос. В итоге мы получили отель даже лучше забронированного! И всегда предложат вкусный кофе в офисе👍🏻 Обязательно вернемся к вам снова🫶🏻 мы нашли своё турагентство!",
+      "text": "Отдыхаю с Лофт Трэвел уже 3й год. И каждый раз всё четко, по делу, согласно моему запросу. Благодарю менеджера Викторию Климович за помощь в выборе нашего февральского тура на Шри-Ланку. В ситуации, когда у нас случился овербукинг в отеле, она была на связи, помогала…",
       "published_at_text": "25 августа 2025",
       "published_at": "2025-08-25",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -2655,25 +2655,25 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "b5bfd1731b0ab855e8fa3b0366a04aa180a496260e9f70e58d7c2f83f4b6ce39"
+      "content_hash": "d4c520b18a725b9a15ef72321c365e7362bc8f9c277741397c12da7f98fcfbca"
     },
     {
       "source": "yandex",
       "source_place_id": "160356850970",
-      "source_review_id": "fp_40cff33a337a72d65f6adfd6543b50cd1ba1e0837b6619c3da889e8e046515a5",
+      "source_review_id": "fp_eb3c004c4e888f42e6c232782b7794064f8b873db3277cc1d33e07206af8efd4",
       "author": {
         "name": "Богдан Ч.",
         "avatar_url": null,
         "profile_url": "https://yandex.by/maps/user/3m50qtbtaw134nnqvyzrfd75zc"
       },
       "rating": 5,
-      "text": "Хочу поблагодарить туристическую компанию Лофт Трэвел за отлично подобранный тур на Кубу! Всё прошло просто замечательно — от момента подбора тура до самого отдыха. Отдельное огромное спасибо Ирине за профессионализм, внимание к деталям и искреннюю заботу. Она учла…",
+      "text": "Хочу поблагодарить туристическую компанию Лофт Трэвел за отлично подобранный тур на Кубу! Всё прошло просто замечательно — от момента подбора тура до самого отдыха. Отдельное огромное спасибо Ирине за профессионализм, внимание к деталям и искреннюю заботу. Она учла все мои пожелания, помогла с оформлением документов и всегда была на связи, если возникали вопросы. Отдых получился незабываемым! Обязательно обращусь снова и буду рекомендовать друзьям.",
       "published_at_text": "29 июля 2025",
       "published_at": "2025-07-29",
       "published_at_is_approximate": false,
       "date_precision": "exact",
-      "first_seen_at": "2026-09-13T00:39:38.991Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "first_seen_at": "2026-09-16T04:57:34.429Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [
         {
@@ -2701,7 +2701,7 @@
           "mime_type": "image/webp"
         }
       ],
-      "content_hash": "c6d6829f4e7fe7203d29e778c3ae9bc4d99fdc2d5850037ae897b27e3c982999"
+      "content_hash": "f4cd1a712f1ad5d236b97960a27d2215d24cc09e7a0bf5d171be66555db32448"
     },
     {
       "source": "google",
@@ -2713,16 +2713,16 @@
         "profile_url": "https://www.google.com/maps/contrib/114012583534097082921/reviews?hl=ru"
       },
       "rating": 5,
-      "text": "Отличное турагентство! Покупаю туры уже более 2 лет. Особенно рекомендую менеджера Климович Викторию - внимательное отношение, невероятная забота, подбор отеля с учетом всех пожеланий. Хочу отметить, что я требовательный клиент и долго …",
+      "text": "Отличное турагентство! Покупаю туры уже более 2 лет. Особенно рекомендую менеджера Климович Викторию - внимательное отношение, невероятная забота, подбор отеля с учетом всех пожеланий. Хочу отметить, что я требовательный клиент и долго выбираю отель, рассматриваю много вариантов, при этом Виктория терпеливо сопровождает каждый процесс выбора, помогает определиться, с учетом своего опыта и профессионализма. Перед вылетом - всегда подробный инструктаж, что учесть в поездке. Больше нет необходимости обращаться в другие агентства. От души рекомендую Викторию и Лофт Тревел!",
       "published_at_text": "3 года назад",
       "published_at": "2023-08-15",
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
-      "content_hash": "f50575ca25f3dfe507772de8204ed5f0b1f96d153fbd864ce81d4217ff70eb99"
+      "content_hash": "0ae8882aba89c582d21131c99a9f4ef95c68eb43cc25b856221594290f737f25"
     },
     {
       "source": "yandex",
@@ -2740,7 +2740,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "b7d5a0334bb9800896a80b458d0fd9d924109dd7171594f168e5bd698e700066"
@@ -2761,7 +2761,7 @@
       "published_at_is_approximate": false,
       "date_precision": "exact",
       "first_seen_at": "2026-09-04T00:42:22.687Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://yandex.by/maps/org/loft_trevel/160356850970/reviews/?ll=27.518730%2C53.908686&z=17",
       "photos": [],
       "content_hash": "defe6408ac84b730bf3241de6adcf1d0d1fbc3b8fddbc6d76cd6a586ee9e97d3"
@@ -2782,7 +2782,7 @@
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [
         {
@@ -2836,7 +2836,7 @@
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "7b126d04929195fd4203570b1a12a58499402f968ab2757bda2e69534aa46e72"
@@ -2857,7 +2857,7 @@
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "f547c3a85db353c8ea8057a11e66c80ac733d623c48c3e9ab165096ac74756f9"
@@ -2878,7 +2878,7 @@
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "12d7736cd0f2b29f1e7fd1d97d11d80ad23910700c2c0423ee09338452c17d9d"
@@ -2899,7 +2899,7 @@
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "8b87202817dee009b0c6cbd1a1ef43fba2183615259a82276b0b7d746bf5f0d4"
@@ -2920,7 +2920,7 @@
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "65ad1be63a19c20ba8661040a5c2753a7a76b0f39ef56d3547290e97fed8da34"
@@ -2941,7 +2941,7 @@
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
       "content_hash": "a6fa64c67bc0e86aba871bac6a1cf4494fa29cda194c0f60d5626afddfc942c0"
@@ -2956,16 +2956,16 @@
         "profile_url": "https://www.google.com/maps/contrib/110991273188859821357/reviews?hl=ru"
       },
       "rating": 5,
-      "text": "Хочу выразить благодарность за отличную организацию нашей поездки в \" Париж с комфортом\", которая была в октябре. В турфирме \"Лофт Трэвел\" работает менеджер Ирина Дранчук - грамотный, позитивный, тактичный, доброжелательный специалист. Ирина профессионально решала все наши вопросы ( начиная с визы и заканчивая нашей посадкой в автобус в Бресте). Всё было сделано на высшем уровне! Огромное спасибо! Всех благ Вам!",
+      "text": "Хочу выразить благодарность за отличную организацию нашей поездки в \" Париж с комфортом\", которая была в октябре. В турфирме \"Лофт Трэвел\" работает менеджер Ирина Дранчук - грамотный, позитивный, тактичный, доброжелательный специалист. …",
       "published_at_text": "Изменено 6 лет назад",
       "published_at": "2020-08-15",
       "published_at_is_approximate": true,
       "date_precision": "year",
       "first_seen_at": "2026-08-15T16:59:30.205Z",
-      "last_seen_at": "2026-09-15T00:40:47.494Z",
+      "last_seen_at": "2026-09-16T04:57:34.429Z",
       "source_url": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%84%D1%82+%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB/@53.908511,27.5161381,17z/data=!4m8!3m7!1s0x46dbcf13de883f57:0x7e6e3bff805d04d!8m2!3d53.908511!4d27.518713!9m1!1b1!16s%2Fg%2F11h0hkh8j7?hl=ru",
       "photos": [],
-      "content_hash": "cf95d6135b484282ab34e56e99ee3d1381f69a64b5e2cfcae5ac560ff1eca0ac"
+      "content_hash": "8d06a6e7b1371f4273220a6a300a93adf9b8c1c28406380cc8ccdd436439c8ed"
     }
   ]
 }
