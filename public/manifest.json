@@ -1,8 +1,8 @@
 {
   "schema_version": "reviews.v1",
-  "generated_at": "2026-09-25T05:06:08.565Z",
-  "sha256": "60adbca55287587a6cf1f0272dbc20253209f6ca70856a8128b1e4c2119de9c4",
-  "bytes": 198375,
+  "generated_at": "2026-09-27T05:27:27.832Z",
+  "sha256": "eb5027b0fde365af62d449b816488da75b8c3145327f7252ac54793c9f9f6579",
+  "bytes": 202063,
   "reviews": {
     "total": 102,
     "google": 48,
