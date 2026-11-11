@@ -8,7 +8,7 @@ test('retries a transiently truncated source and keeps the complete result', asy
   const delays = [];
 
   const reviews = await collectSourceWithRetry({
-    source: 'google',
+    source: 'yandex',
     adapter: async () => results[calls++],
     page: { waitForTimeout: async delay => delays.push(delay) },
     sourceConfig: {},
@@ -26,7 +26,7 @@ test('fails after three truncated attempts without publishing partial data', asy
 
   await assert.rejects(
     collectSourceWithRetry({
-      source: 'google',
+      source: 'yandex',
       adapter: async () => {
         calls += 1;
         return Array(10).fill({});
@@ -36,7 +36,7 @@ test('fails after three truncated attempts without publishing partial data', asy
       previousCount: 48,
       minimum: 5
     }),
-    /google: резкое падение количества 48 → 10/
+    /yandex: резкое падение количества 48 → 10/
   );
 
   assert.equal(calls, 3);

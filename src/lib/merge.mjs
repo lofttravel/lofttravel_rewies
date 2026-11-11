@@ -1,4 +1,3 @@
-import { estimateRelativeDate } from './relative-date.mjs';
 import { fingerprintReview, sha256 } from './text.mjs';
 
 export function mergeReviews(collected, previousReviews, observedAt, timezone) {
@@ -11,9 +10,7 @@ export function mergeReviews(collected, previousReviews, observedAt, timezone) {
     if (seen.has(key)) continue;
     seen.add(key);
     const old = previous.get(key);
-    const estimated = incoming.source === 'google'
-      ? estimateRelativeDate(incoming.published_at_text, observedAt, timezone)
-      : { date: incoming.published_at, approximate: incoming.published_at_is_approximate, precision: incoming.date_precision };
+    const estimated = { date: incoming.published_at, approximate: incoming.published_at_is_approximate, precision: incoming.date_precision };
     const publishedAt = old?.published_at || incoming.published_at || estimated.date;
     const firstSeenAt = old?.first_seen_at || observedAt.toISOString();
     const contentHash = sha256(JSON.stringify({
@@ -49,8 +46,8 @@ export function mergeReviews(collected, previousReviews, observedAt, timezone) {
   });
 }
 
-export function assertSaneCounts(reviews, previousReviews, minimum) {
-  for (const source of ['google', 'yandex']) {
+export function assertSaneCounts(reviews, previousReviews, minimum, sources = ['yandex']) {
+  for (const source of sources) {
     const count = reviews.filter(review => review.source === source).length;
     const previousCount = previousReviews.filter(review => review.source === source).length;
     assertSaneSourceCount(source, count, previousCount, minimum);

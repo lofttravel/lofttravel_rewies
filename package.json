@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Nightly Google Maps and Yandex Maps reviews collector for Loft Travel",
+  "description": "Yandex Maps reviews collector for Loft Travel",
   "scripts": {
     "collect": "node src/collect.mjs",
     "collect:dry": "REVIEWS_DRY_RUN=1 node src/collect.mjs",

@@ -3,7 +3,6 @@ import path from 'node:path';
 import Ajv2020 from 'ajv/dist/2020.js';
 import addFormats from 'ajv-formats';
 import { chromium } from 'playwright';
-import { collectGoogle } from './adapters/google.mjs';
 import { collectYandex } from './adapters/yandex.mjs';
 import { config } from './config.mjs';
 import { collectSourceWithRetry } from './lib/collect-source.mjs';
@@ -34,7 +33,6 @@ const context = await browser.newContext({
 const collected = [];
 try {
   for (const [source, adapter, sourceConfig] of [
-    ['google', collectGoogle, config.google],
     ['yandex', collectYandex, config.yandex]
   ]) {
     const page = await context.newPage();
@@ -64,18 +62,16 @@ try {
 }
 
 const reviews = mergeReviews(collected, previousFeed.reviews || [], observedAt, config.timezone);
-assertSaneCounts(reviews, previousFeed.reviews || [], config.minimumReviewsPerSource);
+assertSaneCounts(reviews, previousFeed.reviews || [], config.minimumReviewsPerSource, ['yandex']);
 const feed = {
   schema_version: 'reviews.v1',
   generated_at: observedAt.toISOString(),
   timezone: config.timezone,
   sources: {
-    google: { place_id: config.google.placeId, url: config.google.url },
     yandex: { place_id: config.yandex.placeId, url: config.yandex.url }
   },
   stats: {
     total: reviews.length,
-    google: reviews.filter(review => review.source === 'google').length,
     yandex: reviews.filter(review => review.source === 'yandex').length,
     with_photos: reviews.filter(review => review.photos.length > 0).length
   },

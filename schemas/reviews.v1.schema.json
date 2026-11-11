@@ -8,13 +8,27 @@
     "schema_version": { "const": "reviews.v1" },
     "generated_at": { "type": "string", "format": "date-time" },
     "timezone": { "const": "Europe/Minsk" },
-    "sources": { "type": "object" },
+    "sources": {
+      "type": "object",
+      "required": ["yandex"],
+      "additionalProperties": false,
+      "properties": {
+        "yandex": {
+          "type": "object",
+          "required": ["place_id", "url"],
+          "additionalProperties": false,
+          "properties": {
+            "place_id": { "type": "string", "minLength": 1 },
+            "url": { "type": "string", "pattern": "^https://" }
+          }
+        }
+      }
+    },
     "stats": {
       "type": "object",
-      "required": ["total", "google", "yandex", "with_photos"],
+      "required": ["total", "yandex", "with_photos"],
       "properties": {
         "total": { "type": "integer", "minimum": 0 },
-        "google": { "type": "integer", "minimum": 0 },
         "yandex": { "type": "integer", "minimum": 0 },
         "with_photos": { "type": "integer", "minimum": 0 }
       }
@@ -26,7 +40,7 @@
         "required": ["source", "source_place_id", "source_review_id", "author", "rating", "text", "published_at_text", "published_at", "published_at_is_approximate", "date_precision", "first_seen_at", "last_seen_at", "source_url", "photos", "content_hash"],
         "additionalProperties": false,
         "properties": {
-          "source": { "enum": ["google", "yandex"] },
+          "source": { "const": "yandex" },
           "source_place_id": { "type": "string", "minLength": 1 },
           "source_review_id": { "type": "string", "minLength": 8 },
           "author": {

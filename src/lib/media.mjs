@@ -6,7 +6,6 @@ import { sha256 } from './text.mjs';
 const MAX_DOWNLOAD_BYTES = 15 * 1024 * 1024;
 
 function higherResolutionUrl(url, source) {
-  if (source === 'google') return url.replace(/=w\d+-h\d+[^?]*$/i, '=w1600-h1600-p-k-no');
   if (source === 'yandex') return url.replace(/\/(?:S|M|L|XL|XXL|orig)(?:\?.*)?$/i, '/orig');
   return url;
 }
