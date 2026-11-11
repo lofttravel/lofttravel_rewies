@@ -35,7 +35,7 @@ npm run validate
 
 ## Публикация
 
-Workflow запускается ежедневно в 03:23 по Минску и вручную через **Actions → Collect reviews → Run workflow**. В настройках репозитория необходимо выбрать **Settings → Pages → Source: GitHub Actions**.
+Workflow запускается первого числа каждого месяца в 03:23 по Минску и вручную через **Actions → Collect reviews → Run workflow**. Импорт фида на сайт запланирован на 03:45 по Минску. В настройках репозитория необходимо выбрать **Settings → Pages → Source: GitHub Actions**.
 
 Публичные файлы:
 

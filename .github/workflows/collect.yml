@@ -5,13 +5,12 @@ on:
     branches:
       - main
     paths:
-      - ".github/workflows/collect.yml"
       - "src/**"
       - "tests/**"
       - "package.json"
       - "package-lock.json"
   schedule:
-    - cron: "23 3 * * *"
+    - cron: "23 3 1 * *"
       timezone: "Europe/Minsk"
   workflow_dispatch:
 
